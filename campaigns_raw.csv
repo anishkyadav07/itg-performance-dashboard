@@ -1,0 +1,15 @@
+campaign_id,campaign_name,platform,start_date,end_date,spend_inr,impressions,clicks,leads
+CMP012,Resume & Interview Workshop,LinkedIn Ads,01/09/2026,2026-09-20,10000,280923,2922,265
+CMP005,Data Science Demo Class,Facebook Ads,2026-06-10,2026-07-05,15000,333390,5149,198
+CMP006,AI & ChatGPT Workshop Promo,INSTAGRAM ADS,2026-07-01,2026-07-20,14000,283461,6328,412
+CMP001,Python Course Admission Drive,Google Ads,2026-04-05,2026-04-30,18000,529442,-17125,981
+CMP010,Excel & Power BI Workshop,Facebook Ads,2026-08-10,2026-08-31,9000,174068,3572,172
+CMP004,IT Services B2B Outreach,LinkedIn Ads,2026-06-01,2026-06-30,25000,443423,4531,416
+CMP002,Summer Internship Awareness,Instagram Ads,2026-05-02,2026-05-25,12000,206425,6042,433
+CMP011,Career Guidance YouTube Series,YouTube Ads,2026-08-15,2026-09-15,16000,357615,-3850,156
+CMP008,Admission Season Mega Campaign,Google Ads,2026-07-25,2026-08-31,40000,972665,-37759,2759
+CMP013,Digital Marketing Course Offer,Instagram Ads,2026-09-05,2026-09-28,13000,195491,5288,296
+CMP003,Full Stack Batch Launch,Google Ads,2026-05-15,2026-06-10,22000,462658,18817,1216
+CMP007,Web Development Services Push,LinkedIn Ads,2026-07-10,2026-08-05,20000,447787,4647,337
+CMP014,IT Services Retargeting,Google Ads,2026-09-10,30/09/2026,17000,353715,14293,893
+CMP009,AI Workshop Early Bird,Instagram Ads,2026-08-01,2026-08-20,18000,417744,12372,878

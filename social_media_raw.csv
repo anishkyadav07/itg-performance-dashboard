@@ -1,0 +1,298 @@
+post_id,date,platform,post_type,topic,reach,impressions,likes,comments,shares,followers
+POST0180,2026-09-02,LinkedIn,Text Post,Data Science,543.0,655,41,4,2,1011
+POST0272,2026-04-18,YouTube,Video,Data Science,273.0,398,20,1,0,326
+POST0226,2026-06-12,Facebook,Video,AI Workshop,1522.0,2268,74,3,3,1005
+POST0008,2026-04-11,instagram,Image,Data Science,900.0,1146,67,8,3,1214
+POST0174,2026-08-23,LinkedIn,Image,IT Services,603.0,833,26,2,2,983
+POST0031,2026-05-20,Instagram,Carousel,Student Success,1008.0,1475,34,1,1,1269
+POST0184,12/09/2026,linkedin,Image,Student Success,746.0,965,57,7,4,1051
+POST0182,2026-09-07,LinkedIn,Poll,Python Course,747.0,880,49,2,2,1033
+POST0271,2026-04-13,YouTube,Short,Python Course,427.0,671,31,1,1,317
+POST0142,27/06/2026,LinkedIn,Carousel,Python Course,862.0,1300,43,3,4,835
+POST0014,2026-04-20,Instagram,Reel,AI Workshop,2355.0,2896,125,5,8,1228
+POST0231,2026-06-27,Facebook,Text Post,AI Workshop,725.0,1142,54,7,6,1032
+POST0036,2026-06-01,Instagram,Carousel,Data Science,1212.0,1560,63,7,4,1290
+POST0270,2026-04-07,YouTube,Video,Web Development,238.0,302,,1,1,305
+POST0078,2026-08-05,Instagram,Carousel,Python Course,1406.0,1872,105,10,6,1452
+POST0238,2026-07-14,Facebook,Reel,Career Tips,1902.0,2324,96,6,4,1086
+POST0207,2026-05-07,Facebook,Video,Python Course,987.0,1527,62,8,7,941
+POST0095,2026-08-31,Instagram,Image,Data Science,616.0,837,49,3,3,1513
+POST0092,25-08-2026,Insta,Reel,Data Science,1624.0,2018,106,14,7,1497
+POST0288,2026-08-17,YouTube,Video,IT Services,314.0,405,24,1,0,587
+POST0004,2026-04-05,Instagram,Carousel,Web Development,1065.0,1296,43,2,5,1206
+POST0105,18/09/2026,Instagram,,Web Development,621.0,999,31,2,1,1554
+POST0030,2026-05-18,Instagram,Story,Web Development,539.0,628,30,1,2,1264
+POST0171,2026-08-19,LinkedIn,Image,IT Services,664.0,835,37,4,3,975
+POST0135,2026-06-02,LinkedIn,Image ,Web Development,413.0,640,27,2,2,769
+POST0042,11-06-2026,Instagram,Story,Student Success,527.0,855,36,2,2,1317
+POST0251,2026-08-18,Facebook,Image ,Digital Marketing,787.0,1318,52,3,2,1198
+POST0287,2026-08-13,YouTube,Short ,IT Services,792.0,1130,47,6,5,579
+POST0134,2026-05-29,,Image,AI Workshop,565.0,881,18,1,1,759
+POST0161,2026-07-31,LinkedIn,Carousel,Python Course,850.0,1206,36,1,2,931
+POST0153,2026-07-13,LinkedIn,Text Post,Python Course,577.0,910,17,1,1,879
+POST0067,2026-07-15,instagram,Reel,AI Workshop,2498.0,3975,118,15,5,1391
+POST0245,2026-07-27,Facebook,Video,Student Success,,1370,33,4,2,1124
+POST0229,2026-06-21,Facebook,Reel,Data Science,1169.0,1852,75,5,7,1020
+POST0090,2026-08-23,Instagram,Story,Student Success,632.0,930,26,1,2,1497
+POST0273,2026-04-19,youtube,Video,Digital Marketing,291.0,463,,3,2,328
+POST0158,2026-07-25,LinkedIn,Text Post,Digital Marketing,542.0,757,33,2,2,912
+POST0104,2026-09-15,Instagram,Image,Digital Marketing,687.0,979,21,1,2,1547
+POST0127,2026-05-06,LinkedIn,Poll,Student Success,503.0,718,28,3,2,728
+POST0222,2026-06-01,Facebook,image,Student Success,207.0,298,10,0,0,979
+POST0012,2026-04-18,INSTAGRAM,Image,Digital Marketing,815.0,1165,29,2,1,1223
+POST0224,2026-06-06,Facebook,,Career Tips,1919.0,2439,58,5,4,990
+POST0165,2026-08-06,LinkedIn,Carousel ,Student Success,742.0,1008,42,3,2,942
+POST0128,2026-05-11,LinkedIn,carousel,Web Development,759.0,1081,26,3,1,736
+POST0175,24/08/2026,LinkedIn,Poll ,Career Tips,872.0,1351,52,6,4,985
+POST0075,2026-08-01,Instagram,Image,Web Development,480.0,754,14,0,0,1430
+POST0189,2026-09-25,LinkedIn,Image,Digital Marketing,740.0,1087,56,3,6,1092
+POST0267,2026-09-26,Facebook,Reel,Student Success,1179.0,1932,74,9,4,1295
+POST0283,2026-07-15,YouTube,Video,IT Services,348.0,420,12,0,1,502
+POST0157,2026-07-24,LinkedIn,Poll,Digital Marketing,603.0,962,24,2,0,911
+POST0132,23/05/2026,LinkedIn,Poll,Web Development,580.0,697,20,2,1,753
+POST0100,2026-09-07,,image,Student Success,682.0,991,50,5,1,1530
+POST0011,2026-04-16,Instagram,Carousel,IT Services,1117.0,1517,84,4,7,1222
+POST0085,2026-08-15,Instagram,Carousel,Digital Marketing,1049.0,1499,34,1,3,1479
+POST0143,2026-06-28,LinkedIn,Text Post,Career Tips,757.0,1249,36,4,2,836
+POST0066,14-07-2026,Instagram,Story,IT Services,782.0,1238,32,2,2,1389
+POST0119,2026-04-20,LinkedIn,Image,Student Success,372.0,570,28,3,2,698
+POST0282,2026-06-30,Youtube,Short,Web Development,-528.0,714,33,3,3,477
+POST0110,2026-09-25,Instagram,story,Digital Marketing,1314.0,1648,56,6,4,1571
+POST0206,2026-05-06,,Reel,Student Success,1353.0,2249,83,5,9,938
+POST0054,2026-06-28,Instagram,Image,Digital Marketing,1247.0,1508,88,12,10,1350
+POST0173,2026-08-22,LinkedIn,Carousel,Digital Marketing,850.0,1190,62,6,4,982
+POST0024,2026-05-07,Instagram,Reel,Python Course,1690.0,2320,133,17,12,1252
+POST0099,2026-09-06,Instagram,Carousel,Python Course,1047.0,1452,72,5,8,1528
+POST0244,2026-07-26,Facebook,Text Post,Digital Marketing,,613,22,1,0,1124
+POST0121,2026-04-25,LinkedIn,Text Post,Data Science,370.0,501,16,0,1,710
+POST0154,2026-07-14,LinkedIn,Carousel,IT Services,860.0,1022,40,1,3,881
+POST0193,06-04-2026,Facebook,Image,AI Workshop,755.0,1033,40,4,3,906
+POST0225,2026-06-11,Facebook,Text Post,Data Science,543.0,763,18,0,1,1003
+POST0202,2026-04-25,Facebook,Reel,Digital Marketing,1156.0,1954,67,5,7,924
+POST0055,2026-06-29,Instagram,Carousel,AI Workshop,1788.0,2847,110,13,12,1353
+POST0005,2026-04-06,Instagram,Image ,AI Workshop,980.0,1236,47,2,1,1209
+POST0152,2026-07-12,LinkedIn,POLL,Career Tips,1043.0,1604,53,7,3,874
+POST0258,2026-08-27,Facebook,Reel,Career Tips,2207.0,3474,78,6,4,1221
+POST0164,2026-08-05,LinkedIn,Text Post,IT Services,494.0,702,25,1,2,941
+POST0145,2026-06-30,LinkedIn,,Web Development,376.0,622,23,2,2,839
+POST0209,2026-05-10,Facebook,Image,Data Science,503.0,754,30,4,0,943
+POST0227,15/06/2026,Facebook,Text Post,IT Services,704.0,1138,46,2,5,1010
+POST0025,2026-05-08,Instagram,Image,IT Services,634.0,1006,47,7,3,1252
+POST0278,2026-05-21,YouTube,Short,AI Workshop,628.0,1050,19,0,0,384
+POST0107,21-09-2026,,image,Data Science,1117.0,1654,,3,2,1562
+POST0205,2026-05-04,Facebook,Image,AI Workshop,582.0,712,30,3,1,935
+POST0021,03-05-2026,Instagram,Image,IT Services,615.0,900,35,4,2,1248
+POST0029,17/05/2026,Instagram,Image,AI Workshop,1047.0,1572,45,3,4,1264
+POST0284,2026-07-20,YouTube,Short,Data Science,592.0,745,27,3,1,515
+POST0156,2026-07-22,LinkedIn,Poll,AI Workshop,949.0,1204,54,3,4,902
+POST0072,28/07/2026,Instagram,Image,Career Tips,898.0,1077,38,5,3,1417
+POST0277,2026-05-14,YouTube,Short,Data Science,355.0,526,15,1,1,375
+POST0220,2026-05-30,Facebook,Video,Digital Marketing,672.0,831,21,2,1,976
+POST0129,2026-05-14,LinkedIn,Carousel,Python Course,590.0,757,35,3,1,739
+POST0065,2026-07-13,Instagram,Carousel,AI Workshop,1452.0,1794,115,5,4,1384
+POST0015,2026-04-21,Instagram,Story,Python Course,,745,35,4,3,1228
+POST0115,2026-04-05,LinkedIn,Text Post,IT Services,326.0,513,19,2,1,662
+POST0019,2026-04-28,Instagram,Carousel,Python Course,1287.0,1710,59,7,1,1239
+POST0086,16/08/2026,Instagram,Story ,Web Development,868.0,1376,65,5,7,1483
+POST0063,2026-07-08,Instagram,Image,Data Science,972.0,1146,55,6,2,1364
+POST0131,2026-05-21,LinkedIn,Carousel,AI Workshop,861.0,1005,60,3,1,752
+POST0026,09-05-2026,Instagram,Image,AI Workshop,868.0,1444,63,8,4,1253
+POST0265,2026-09-16,Facebook,Image,Digital Marketing,608.0,929,42,4,1,1269
+POST0200,2026-04-20,FB,Video,AI Workshop,1197.0,1962,82,9,5,913
+POST0190,2026-09-27,LinkedIn,Poll,Career Tips,1143.0,1812,42,3,4,1102
+POST0216,2026-05-20,Facebook,Image,Student Success,648.0,1089,35,2,2,956
+POST0070,2026-07-19,Instagram,Story,AI Workshop,1219.0,1768,55,6,4,1397
+POST0167,2026-08-09,Linkedin,Poll,Student Success,769.0,1279,29,3,3,952
+POST0113,2026-04-01,LinkedIn,Poll,Python Course,545.0,907,,2,1,654
+POST0045,2026-06-15,Instagram,Carousel,AI Workshop,-1684.0,2515,121,10,5,1324
+POST0007,09/04/2026,instagram,Carousel ,IT Services,1166.0,1546,62,5,4,1210
+POST0148,2026-07-05,LinkedIn,Image,Digital Marketing,546.0,768,16,1,1,852
+POST0013,2026-04-19,Instagram,Image,Web Development,,1020,22,2,2,1225
+POST0094,2026-08-29,Instagram,Carousel,AI Workshop,1439.0,1808,82,7,5,1505
+POST0102,10/09/2026,Instagram,Carousel,Web Development,1623.0,2566,90,8,3,1536
+POST0179,31/08/2026,LinkedIn,Poll,Data Science,608.0,996,37,2,1,1005
+POST0114,2026-04-02,LinkedIn,Image,IT Services,438.0,733,24,3,1,654
+POST0006,2026-04-08,Instagram,Image ,Student Success,800.0,1054,63,3,4,1209
+POST0155,2026-07-18,LinkedIn,Text Post,Career Tips,868.0,1319,53,2,5,888
+POST0003,2026-04-04,Instagram,Carousel,Data Science,1074.0,1536,81,8,7,1203
+POST0080,2026-08-09,Instagram,Carousel,Digital Marketing,1315.0,1748,46,6,1,1466
+POST0068,2026-07-16,Instagram,Image,Student Success,1301.0,1585,94,11,5,1392
+POST0192,2026-04-04,Facebook,VIDEO,IT Services,887.0,1297,40,5,1,904
+POST0116,2026-04-09,LinkedIn,Image,Web Development,568.0,939,24,3,1,669
+POST0162,2026-08-01,LinkedIn,Poll,AI Workshop,695.0,981,48,2,3,931
+POST0177,2026-08-26,LinkedIn,Poll,Python Course,429.0,686,22,1,1,992
+POST0118,2026-04-17,LinkedIn,Image,Student Success,342.0,416,14,0,1,695
+POST0172,2026-08-20,LinkedIn,Text Post,Career Tips,837.0,1116,42,1,3,977
+POST0285,24-07-2026,YouTube,Short,Career Tips,932.0,1139,65,8,6,521
+POST0160,2026-07-30,LinkedIn,image,Career Tips,1078.0,1785,52,4,1,930
+POST0232,2026-06-29,Facebook,Image,Career Tips,880.0,1222,28,1,3,1040
+POST0242,22/07/2026,Facebook ,Image,IT Services,922.0,1412,28,3,2,1112
+POST0281,25/06/2026,YouTube,Video,Career Tips,532.0,787,22,3,2,461
+POST0176,2026-08-25,LinkedIn,Image,Data Science,661.0,924,47,6,2,991
+POST0141,2026-06-22,Linkedin,Image,Career Tips,681.0,930,43,3,2,819
+POST0091,2026-08-24,Instagram,REEL,Career Tips,2651.0,4488,150,22,14,1497
+POST0250,2026-08-17,Facebook,Video,Student Success,1038.0,1276,82,6,7,1192
+POST0010,15/04/2026,Instagram,Story,AI Workshop,880.0,1153,67,5,2,1221
+POST0038,2026-06-05,Instagram,Story,Student Success,468.0,616,14,1,1,1305
+POST0267,2026-09-26,Facebook,Reel,Student Success,1179.0,1932,74,9,4,1295
+POST0046,16-06-2026,Instagram,Reel,IT Services,1650.0,1995,83,6,9,1327
+POST0170,2026-08-17,LinkedIn,Poll,Data Science,725.0,1184,50,3,4,965
+POST0233,2026-06-30,Facebook,Text Post,Data Science,788.0,1048,53,4,3,1043
+POST0268,2026-09-28,Facebook,Image,Python Course,929.0,1104,37,3,3,1304
+POST0275,2026-05-02,YouTube,Video,Data Science,259.0,392,13,0,0,354
+POST0049,2026-06-21,INSTAGRAM,Carousel,Career Tips,1415.0,1815,105,12,8,1335
+POST0043,2026-06-13,Instagram,Carousel,Student Success,1246.0,1967,98,6,6,1321
+POST0240,18/07/2026,Facebook,,Web Development,1038.0,1599,77,10,3,1096
+POST0058,2026-07-02,Instagram,Reel,Career Tips,1964.0,2394,98,12,5,1357
+POST0146,02/07/2026,LINKEDIN ,,Student Success,460.0,540,34,2,2,845
+POST0123,2026-04-28,Linkedin,Carousel,IT Services,481.0,788,17,2,1,711
+POST0291,15-09-2026,YouTube,Video,IT Services,542.0,812,26,2,1,670
+POST0255,23/08/2026,Facebook,TEXT POST,IT Services,615.0,782,20,2,2,1209
+POST0269,2026-09-30,Facebook,Image,Digital Marketing,876.0,1264,58,6,2,1311
+POST0181,2026-09-06,LinkedIn,,Digital Marketing,633.0,739,20,1,2,1027
+POST0185,2026-09-14,LinkedIn,Poll,IT Services,766.0,1217,26,3,1,1056
+POST0204,2026-05-03,Facebook,Reel,Python Course,1233.0,1893,61,2,4,935
+POST0002,2026-04-02,Instagram,Reel,IT Services,1548.0,2560,68,8,3,1200
+POST0140,2026-06-21,LinkedIn,poll,Digital Marketing,,596,22,1,0,819
+POST0112,2026-09-30,Instagram,Reel,IT Services,1879.0,2666,75,3,8,1584
+POST0274,2026-04-30,YouTube,short,Student Success,361.0,605,21,2,1,352
+POST0235,2026-07-03,Facebook,Image,Data Science,289.0,419,17,2,0,1049
+POST0108,2026-09-22,Instagram,Carousel,AI Workshop,2029.0,2473,158,23,9,1566
+POST0009,2026-04-13,Instagram,Reel,Data Science,1589.0,2254,114,5,11,1217
+POST0223,2026-06-05,,Text Post,Student Success,424.0,515,14,1,0,987
+POST0279,06/06/2026,YouTube,Video,Web Development,264.0,422,12,0,1,415
+POST0195,2026-04-10,FB,Reel,IT Services,1208.0,1822,41,1,4,907
+POST0022,04/05/2026,INSTAGRAM,Carousel,Data Science,1206.0,1605,92,12,3,1252
+POST0276,2026-05-03,YouTube,Short,Python Course,378.0,553,19,2,1,358
+POST0210,2026-05-11,Facebook,Video,Career Tips,1060.0,1584,46,5,4,947
+POST0221,31-05-2026,Facebook,Text Post,Student Success,678.0,1061,29,2,1,976
+POST0120,2026-04-21,LinkedIn,Carousel ,Data Science,653.0,886,19,2,2,702
+POST0247,2026-07-31,Facebook,text post,Career Tips,752.0,977,54,3,5,1132
+POST0290,2026-08-30,YouTube,Short,IT Services,802.0,1320,53,3,5,629
+POST0183,2026-09-09,LinkedIn,Poll,Digital Marketing,825.0,1284,62,5,6,1045
+POST0079,2026-08-07,Instagram,Carousel,Career Tips,1938.0,2663,138,20,12,1459
+POST0257,25-08-2026,Facebook,Image,AI Workshop,1008.0,1699,33,1,3,1216
+POST0047,2026-06-19,Instagram,Image,Digital Marketing,1107.0,1397,44,6,4,1332
+POST0109,2026-09-24,Instagram,Image,Student Success,567.0,691,33,3,1,1569
+POST0241,2026-07-20,Facebook,Reel,Data Science,1406.0,2252,57,4,5,1104
+POST0262,2026-09-12,Facebook,Reel,Digital Marketing,1886.0,2775,100,8,3,1255
+POST0237,2026-07-08,Facebook,Reel,Data Science,1481.0,1785,66,9,4,1072
+POST0083,2026-08-13,Instagram,Story,IT Services,712.0,896,22,2,1,1475
+POST0194,2026-04-07,Facebook,Text Post,Data Science,294.0,407,12,1,0,907
+POST0136,2026-06-10,linkedin,Poll,Python Course,598.0,734,30,1,1,789
+POST0266,2026-09-24,Facebook,Image,IT Services,673.0,817,42,3,1,1290
+POST0254,2026-08-21,Facebook,VIDEO,Career Tips,1356.0,2122,43,5,1,1203
+POST0289,19-08-2026,YouTube,Video,Data Science,383.0,558,19,2,2,589
+POST0198,2026-04-14,Facebook,Text Post,Web Development,686.0,790,43,3,4,910
+POST0037,2026-06-04,Instagram,Image,Python Course,592.0,711,44,6,3,1301
+POST0093,28-08-2026,Instagram,Carousel,Web Development,1495.0,1936,82,11,5,1503
+POST0187,2026-09-19,linkedin,Carousel,Digital Marketing,1224.0,1677,,2,5,1072
+POST0263,2026-09-13,Facebook,Video,Web Development,922.0,1322,52,2,1,1256
+POST0063,2026-07-08,Instagram,Image,Data Science,972.0,1146,55,6,2,1364
+POST0001,2026-04-01,Instagram,Image,Student Success,775.0,1127,47,3,2,1200
+POST0028,2026-05-12,Instagram,Image,Data Science,469.0,726,17,1,1,1253
+POST0101,2026-09-09,Instagram,Carousel,Data Science,1499.0,1965,118,16,10,1536
+POST0178,28/08/2026,linkedin,Image,Web Development,644.0,809,46,2,3,998
+POST0188,2026-09-24,Linkedin,Carousel,Python Course,982.0,1459,40,3,3,1086
+POST0218,2026-05-25,Facebook,Reel,Web Development,1376.0,2223,73,5,5,966
+POST0149,2026-07-07,LinkedIn,Image,Student Success,295.0,446,,1,0,854
+POST0064,2026-07-10,Instagram,Story,Career Tips,950.0,1158,41,4,3,1373
+POST0040,09-06-2026,Instagram,Image,Python Course,590.0,754,30,3,1,1314
+POST0246,2026-07-30,Facebook,Reel,AI Workshop,1874.0,3180,143,16,10,1132
+POST0159,29/07/2026,LinkedIn,Carousel,Career Tips,1256.0,1598,50,6,4,928
+POST0144,2026-06-29,LinkedIn,Poll,Python Course,582.0,950,23,1,2,836
+POST0018,2026-04-27,Instagram,story,Student Success,331.0,475,25,3,2,1236
+POST0060,2026-07-05,Instagram,Story,Web Development,944.0,1399,46,5,4,1361
+POST0166,2026-08-07,LinkedIn,Poll,Data Science,831.0,1409,48,5,2,944
+POST0215,18/05/2026,Facebook,Reel,AI Workshop,1608.0,2582,82,8,2,952
+POST0236,2026-07-06,Facebook,Image,AI Workshop,741.0,1209,46,5,2,1064
+POST0228,2026-06-17,Facebook,Video,Data Science,746.0,883,49,2,2,1012
+POST0217,2026-05-22,Facebook,Text Post,Career Tips,483.0,682,27,2,2,960
+POST0150,2026-07-08,LinkedIn,Image,Python Course,464.0,721,25,2,2,856
+POST0124,2026-04-29,LinkedIn,Text Post,Career Tips,640.0,1057,49,2,5,715
+POST0056,2026-06-30,Instagram,Reel,Student Success,1811.0,2586,94,9,11,1353
+POST0017,25/04/2026,Instagram,,Student Success,1353.0,1559,64,6,6,1233
+POST0201,22/04/2026,Facebook,Text Post,Data Science,593.0,800,40,3,3,916
+POST0203,01/05/2026,Facebook,Reel,Student Success,1234.0,1780,88,9,6,935
+POST0268,2026-09-28,Facebook,Image,Python Course,929.0,1104,37,3,3,1304
+POST0259,2026-09-03,Facebook,Reel,AI Workshop,2100.0,3205,78,5,2,1233
+POST0151,2026-07-09,LinkedIn,Text Post,AI Workshop,,572,17,2,0,860
+POST0088,20/08/2026,Instagram,Reel,Web Development,1614.0,2555,80,7,3,1492
+POST0252,2026-08-19,Facebook,Reel,Data Science,1704.0,2032,97,10,3,1198
+POST0213,15/05/2026,Facebook,Reel,Data Science,1406.0,1666,58,5,4,951
+POST0147,2026-07-04,LinkedIn,Poll,Web Development,608.0,1030,31,2,3,848
+POST0098,2026-09-04,Instagram,Reel ,Digital Marketing,1965.0,3177,137,19,8,1525
+POST0126,2026-05-04,LinkedIn,Carousel,IT Services,621.0,1003,19,1,1,720
+POST0260,07/09/2026,,Reel,Data Science,1747.0,2685,120,5,12,1240
+POST0062,2026-07-07,Instagram,Carousel,Student Success,1006.0,1613,64,8,2,1364
+POST0082,2026-08-12,Instagram,Image,AI Workshop,1307.0,2137,50,4,4,1471
+POST0111,2026-09-29,Instagram,Image,Python Course,962.0,1317,72,6,6,1582
+POST0069,2026-07-18,Instagram,Story,AI Workshop,1090.0,1254,70,4,6,1395
+POST0130,2026-05-18,LinkedIn,Image,Data Science,372.0,622,12,1,1,744
+POST0211,2026-05-12,Facebook,Video,IT Services,786.0,1229,40,5,3,947
+POST0057,2026-07-01,Instagram,Carousel,Data Science,1479.0,1983,99,14,5,1357
+POST0020,2026-04-29,Instagram,Carousel,Web Development,849.0,1062,46,4,3,1242
+POST0199,15-04-2026,Facebook,Reel,Digital Marketing,1428.0,1857,53,7,2,910
+POST0087,18/08/2026,Instagram,Reel,Digital Marketing,2279.0,3576,137,8,9,1488
+POST0071,2026-07-25,Instagram,Carousel,Career Tips,1795.0,2066,65,5,4,1407
+POST0230,2026-06-26,Facebook,Image,Python Course,748.0,1247,57,5,6,1029
+POST0138,2026-06-16,LinkedIn,Carousel,Digital Marketing,762.0,1185,58,5,2,805
+POST0061,2026-07-06,Insta,Reel,Student Success,1919.0,3011,87,9,5,1364
+POST0035,2026-05-30,Instagram,Reel,Data Science,1780.0,2840,127,10,6,1281
+POST0041,2026-06-10,Instagram,Carousel,Python Course,1117.0,1326,37,4,2,1315
+POST0139,2026-06-20,LinkedIn,Text Post,Career Tips,659.0,818,46,2,3,817
+POST0077,2026-08-03,Instagram,Carousel,Student Success,1567.0,1883,47,5,4,1440
+POST0280,2026-06-23,YouTube,Short,Data Science,557.0,916,22,2,1,452
+POST0243,2026-07-23,Facebook,Text Post,Python Course,508.0,607,31,2,2,1117
+POST0027,2026-05-11,Insta,Image,Digital Marketing,983.0,1291,64,9,6,1253
+POST0033,2026-05-27,Instagram,Story,AI Workshop,994.0,1197,48,5,2,1277
+POST0044,2026-06-14,INSTAGRAM,Image,Career Tips,1470.0,2275,113,13,9,1324
+POST0097,2026-09-03,INSTAGRAM,Story,Career Tips,846.0,1410,41,3,2,1522
+POST0084,2026-08-14,Instagram,Reel,IT Services,1957.0,2336,86,6,7,1479
+POST0191,2026-09-30,LinkedIn,Text Post,IT Services,632.0,886,22,2,1,1109
+POST0292,2026-09-19,YouTube,Video,Python Course,731.0,970,42,3,1,678
+POST0253,2026-08-20,Facebook,Text Post,AI Workshop,742.0,941,47,5,4,1198
+POST0111,2026-09-29,Instagram,Image,Python Course,962.0,1317,72,6,6,1582
+POST0106,2026-09-20,Instagram,Image,Web Development,745.0,954,30,3,1,1562
+POST0186,16/09/2026,LinkedIn,Text Post,Digital Marketing,764.0,1089,50,2,4,1059
+POST0074,2026-07-31,Instagram,Reel,Web Development,1905.0,3076,69,8,8,1426
+POST0249,2026-08-14,Facebook,Video,Web Development,886.0,1473,65,6,3,1185
+POST0248,2026-08-08,Facebook,Image,Digital Marketing,755.0,885,44,4,4,1167
+POST0234,2026-07-02,Facebook,Video,Data Science,664.0,955,48,5,2,1049
+POST0137,14/06/2026,,TEXT POST,Student Success,444.0,726,24,1,2,799
+POST0050,2026-06-22,Instagram,Reel,Data Science,1698.0,2505,53,3,3,1336
+POST0208,2026-05-08,Facebook,Image,Digital Marketing,658.0,1102,28,1,1,942
+POST0286,2026-08-07,YouTube,Short,Student Success,524.0,844,21,2,0,563
+POST0133,2026-05-24,LinkedIn,Carousel,Digital Marketing,753.0,990,57,3,3,754
+POST0051,2026-06-24,Instagram,Story,Digital Marketing,761.0,932,28,2,2,1342
+POST0239,2026-07-16,Facebook,Reel,IT Services,1379.0,2228,83,8,6,1091
+POST0053,2026-06-26,Instagram,Carousel,Data Science,1490.0,2237,87,10,8,1346
+POST0081,2026-08-11,Instagram,Reel,IT Services,2281.0,2718,136,14,7,1466
+POST0032,2026-05-21,Instagram,Reel,Python Course,,2451,102,7,3,1270
+POST0122,2026-04-27,LinkedIn,Carousel,Career Tips,882.0,1128,61,3,2,710
+POST0212,2026-05-13,Facebook,Text Post,Career Tips,815.0,1222,45,5,1,948
+POST0197,2026-04-13,facebook,Reel,Web Development,1109.0,1461,81,4,7,909
+POST0089,2026-08-21,Instagram,Carousel,Python Course,1503.0,2099,119,7,7,1496
+POST0256,2026-08-24,Facebook,Text Post,Web Development,628.0,866,29,2,2,1215
+POST0059,2026-07-03,Instagram,Carousel,Python Course,1058.0,1401,38,5,3,1357
+POST0034,2026-05-29,Instagram,Story,Career Tips,1070.0,1252,37,5,1,1281
+POST0039,2026-06-06,Instagram,,Career Tips,1350.0,1907,47,3,1,1306
+POST0052,25-06-2026,Instagram,IMAGE,Career Tips,1349.0,1607,88,4,3,1343
+POST0261,2026-09-10,Facebook,Video,Web Development,965.0,1584,71,6,7,1247
+POST0103,2026-09-12,Instagram,Carousel,Career Tips,,3278,135,14,4,1540
+POST0196,2026-04-11,Facebook,Reel,Python Course,1096.0,1764,82,9,3,908
+POST0168,2026-08-11,LinkedIn,Poll,IT Services,391.0,527,20,2,1,959
+POST0117,2026-04-13,LinkedIn,Image,Career Tips,483.0,613,19,2,1,681
+POST0125,2026-05-01,LinkedIn,Image,Data Science,569.0,655,43,6,4,719
+POST0219,2026-05-26,Facebook,Reel,IT Services,1175.0,1694,,3,6,966
+POST0048,20/06/2026,Instagram,Carousel,Data Science,1172.0,1653,42,3,3,1332
+POST0214,16/05/2026,Facebook,Text Post,Digital Marketing,622.0,767,23,3,2,951
+POST0133,2026-05-24,LinkedIn,Carousel,Digital Marketing,753.0,990,57,3,3,754
+POST0096,2026-09-02,Instagram,Image,Python Course,984.0,1351,35,1,2,1519
+POST0163,2026-08-02,LinkedIn,Text Post,Web Development,468.0,671,20,2,1,932
+POST0264,2026-09-14,Facebook,Video,Data Science,-1206.0,1620,68,7,2,1262
+POST0076,2026-08-02,,Image,Student Success,881.0,1362,55,5,1,1435
+POST0023,2026-05-06,Instagram,Image,Web Development,907.0,1070,,5,4,1252
+POST0073,2026-07-29,Instagram,Story,Digital Marketing,593.0,878,21,1,1,1421
+POST0016,2026-04-22,INSTAGRAM,Image,AI Workshop,880.0,1294,58,7,6,1229
+POST0169,2026-08-12,LinkedIn,Carousel,AI Workshop,1197.0,1443,61,9,7,961

@@ -1,0 +1,722 @@
+enquiry_id,date,source,enquiry_type,status
+ENQ0458,2026-08-09,Google,General Query ,
+ENQ0531,2026-08-25,,Workshop Registration,Lost
+ENQ0130,2026-05-13,Google,Workshop Registration,In Progress
+ENQ0109,07/05/2026,Instagram,Web Development,Lost
+ENQ0066,2026-04-24,Referral,Course Admission,New
+ENQ0452,2026-08-07,Instagram,Web Development,Lost
+ENQ0537,2026-08-26,Google,Web Development,In Progress
+ENQ0038,2026-04-13,LinkedIn,internship,Lost
+ENQ0698,2026-09-28,facebook,Web Development,New
+ENQ0293,2026-07-05,Referral,Internship,Converted
+ENQ0031,2026-04-11,YouTube,Web Development,New
+ENQ0647,2026-09-18,Instagram,Workshop Registration,Converted
+ENQ0165,2026-05-23,Google,IT Services,In Progress
+ENQ0600,09/09/2026,,General Query,New
+ENQ0660,2026-09-20,Instagram,Workshop Registration,New
+ENQ0016,2026-04-07,FB,Web Development,Lost
+ENQ0380,26-07-2026,LinkedIn,Internship,new
+ENQ0023,09/04/2026,google,Internship,Lost
+ENQ0509,2026-08-19,LinkedIn,IT Services,
+ENQ0249,2026-06-19,LinkedIn,IT Services,Lost
+ENQ0460,2026-08-09,Instagram,WORKSHOP REGISTRATION,Lost
+ENQ0382,2026-07-26,Instagram,Workshop Registration,Lost
+ENQ0021,2026-04-08,Linkedin,App Development,New
+ENQ0063,2026-04-23,YouTube,Course Admission,New
+ENQ0322,2026-07-10,Google,App Development,Lost
+ENQ0069,25/04/2026,linkedin,Web Development,Lost
+ENQ0348,2026-07-17,Referral,Internship,In Progress
+ENQ0108,2026-05-07,Google,Web Development,Lost
+ENQ0580,2026-09-04,LinkedIn,WORKSHOP REGISTRATION,Lost
+ENQ0644,2026-09-18,Instagram,Course Admission,converted
+ENQ0578,2026-09-04,Referral,Workshop Registration,Lost
+ENQ0389,2026-07-28,Google,Web Development,Converted
+ENQ0493,2026-08-16,LinkedIn,,New
+ENQ0339,2026-07-15,Direct,Workshop Registration,Lost
+ENQ0453,2026-08-08,Google,Course Admission,Lost
+ENQ0542,2026-08-27,LinkedIn,Internship,Lost
+ENQ0468,2026-08-11,Instagram,General Query,In Progress
+ENQ0183,2026-05-28,LinkedIn,IT Services ,In Progress
+ENQ0445,2026-08-06,Referral,Internship,Converted
+ENQ0186,2026-05-30,Google,Course Admission,NEW
+ENQ0251,20/06/2026,Facebook,GENERAL QUERY,Converted
+ENQ0376,2026-07-24,Google,Web Development,Lost
+ENQ0159,2026-05-22,,IT Services,New
+ENQ0329,2026-07-13,Google,Web Development,In Progress
+ENQ0250,2026-06-20,Google,Workshop Registration,Converted
+ENQ0002,01/04/2026,LinkedIn,app development,In Progress
+ENQ0631,2026-09-15,Instagram,General Query,In Progress
+ENQ0623,2026-09-13,LinkedIn,App Development,Lost
+ENQ0237,2026-06-15,Instagram,Course Admission,Lost
+ENQ0205,2026-06-05,Instagram,Workshop Registration,New
+ENQ0398,2026-07-29,Google,General Query,Lost
+ENQ0313,2026-07-08,Google,IT Services,Converted
+ENQ0655,2026-09-20,Instagram,Workshop Registration,IN PROGRESS
+ENQ0657,20/09/2026,Google,Web Development,Lost
+ENQ0129,12-05-2026,direct,IT Services,Lost
+ENQ0576,03/09/2026,Instagram,Workshop Registration,In Progress
+ENQ0477,2026-08-13,Google,IT Services,
+ENQ0607,2026-09-10,LinkedIn,app development,Lost
+ENQ0158,22/05/2026,LinkedIn,Web Development,Lost
+ENQ0019,2026-04-08,Instagram,Workshop Registration,Lost
+ENQ0667,2026-09-22,Google,Course Admission,In Progress
+ENQ0078,2026-04-29,LinkedIn,IT Services,Lost
+ENQ0081,2026-04-29,Direct,Course Admission,In Progress 
+ENQ0316,2026-07-08,Facebook,Course Admission,Converted
+ENQ0335,2026-07-14,Facebook,Workshop Registration,Lost
+ENQ0144,2026-05-19,Google,General Query,In Progress
+ENQ0285,2026-07-01,Google,IT Services,Lost
+ENQ0418,2026-08-03,Direct,Web Development,lost
+ENQ0173,2026-05-25,,App Development,Converted
+ENQ0523,2026-08-23,LINKEDIN ,Web Development,New
+ENQ0268,2026-06-26,LinkedIn,Web Development,In Progress
+ENQ0436,2026-08-05,Google,Workshop Registration,New
+ENQ0310,2026-07-07,Google,Workshop Registration,In Progress
+ENQ0526,2026-08-23,Instagram,Workshop Registration,In Progress
+ENQ0090,2026-05-02,LinkedIn,,Lost
+ENQ0142,2026-05-18,Direct,Course Admission,Lost
+ENQ0692,2026-09-27,Google,Web Development,Converted
+ENQ0143,2026-05-18,Direct,IT Services,Converted
+ENQ0662,2026-09-21,Google Search,Internship,In Progress
+ENQ0441,2026-08-06,linkedin,General Query,Lost
+ENQ0298,2026-07-05,Referral,Course Admission,New
+ENQ0621,13-09-2026,Instagram,course admission,Lost
+ENQ0682,2026-09-25,,App Development,
+ENQ0110,2026-05-08,YouTube,IT Services,Converted
+ENQ0419,2026-08-04,Referral,Workshop Registration,Converted
+ENQ0569,2026-09-02,LinkedIn,IT Services,In Progress 
+ENQ0282,2026-06-30,Youtube,Course Admission,In Progress
+ENQ0210,07-06-2026,Google,Course Admission,In Progress
+ENQ0634,15-09-2026,Instagram,Workshop Registration,In Progress
+ENQ0459,09/08/2026,,Internship,In Progress
+ENQ0068,2026-04-24,Facebook,App Development,New
+ENQ0545,2026-08-28,Google,App Development,Lost
+ENQ0597,2026-09-08,LinkedIn,Internship,New
+ENQ0227,2026-06-13,Referral,App Development,Converted
+ENQ0437,2026-08-05,Referral,Web Development,Converted
+ENQ0628,14/09/2026,Referral,IT Services,New
+ENQ0577,2026-09-03,Google,Course Admission,Lost
+ENQ0693,27/09/2026,LinkedIn,Workshop Registration,Lost
+ENQ0372,23-07-2026,Referral,General Query,
+ENQ0491,2026-08-16,Insta,Web Development,In Progress
+ENQ0371,2026-07-23,Instagram,Course Admission,Converted
+ENQ0252,20-06-2026,Google,Course Admission,In Progress
+ENQ0204,2026-06-05,,Course Admission,Lost
+ENQ0085,2026-04-30,Insta,Web Development,Converted
+ENQ0056,2026-04-21,Google,Course Admission,In Progress
+ENQ0207,2026-06-05,Google,Course Admission,
+ENQ0506,2026-08-19,Referral,it services,In Progress
+ENQ0177,2026-05-27,Direct,workshop registration,In Progress
+ENQ0377,24-07-2026,Facebook,Course Admission,converted
+ENQ0602,2026-09-09,Google,Web Development,New
+ENQ0590,2026-09-06,Google ,Course Admission,
+ENQ0685,2026-09-25,Referral,Course Admission,CONVERTED
+ENQ0157,2026-05-22,Google,IT Services,In Progress
+ENQ0276,2026-06-28,Referral,Course Admission,Lost
+ENQ0487,2026-08-15,Instagram,Course Admission,Lost
+ENQ0464,2026-08-10,linkedin,,lost
+ENQ0138,2026-05-15,Instagram,Course Admission,New
+ENQ0512,2026-08-21,Instagram,Workshop Registration,In Progress
+ENQ0679,2026-09-24,YouTube,Course Admission,Lost
+ENQ0420,2026-08-04,Instagram,Web Development,Lost
+ENQ0295,2026-07-05,LinkedIn,IT Services,Converted
+ENQ0184,2026-05-29,Direct,Course Admission,In Progress
+ENQ0281,2026-06-30,Direct,App Development,new
+ENQ0527,2026-08-24,LinkedIn,Course Admission,In Progress
+ENQ0214,2026-06-09,,App Development,Converted
+ENQ0017,2026-04-07,Instagram,course admission,In Progress
+ENQ0616,12-09-2026,Google Search,Web Development,Converted
+ENQ0668,2026-09-22,facebook,Course Admission,
+ENQ0690,2026-09-27,Direct,Course Admission,Converted
+ENQ0200,2026-06-04,Google,IT Services,Lost
+ENQ0198,2026-06-03,LinkedIn,App Development,Converted
+ENQ0258,2026-06-21,Google,App Development,In Progress
+ENQ0370,2026-07-23,LinkedIn,IT Services,In Progress
+ENQ0193,2026-06-02,YouTube,Course Admission,Lost
+ENQ0457,2026-08-09,Facebook,Course Admission,Converted
+ENQ0688,2026-09-26,Google,Web Development,In Progress
+ENQ0450,07/08/2026,FB,Workshop Registration,In Progress
+ENQ0446,2026-08-07,Google,Internship,In Progress
+ENQ0233,2026-06-14,LinkedIn,Course Admission,Converted
+ENQ0199,2026-06-03,Instagram,Workshop Registration,Converted
+ENQ0604,2026-09-09,Direct,App Development,LOST
+ENQ0357,2026-07-19,Google,IT Services,Converted
+ENQ0033,11/04/2026,Direct,Internship,Lost
+ENQ0274,2026-06-28,Instagram,IT Services,Converted
+ENQ0497,16/08/2026,Instagram,Course Admission,In Progress
+ENQ0323,2026-07-11,Direct,Internship,Lost
+ENQ0476,2026-08-12,Instagram,Workshop Registration,
+ENQ0454,2026-08-08,LinkedIn,Course Admission,In Progress
+ENQ0117,2026-05-09,Insta,workshop registration,Converted
+ENQ0011,2026-04-05,LinkedIn,IT Services,In Progress
+ENQ0004,2026-04-02,Google,Web Development,
+ENQ0347,2026-07-16,Facebook,Workshop Registration,In Progress
+ENQ0581,2026-09-04,Google,General Query,Converted
+ENQ0014,06-04-2026,LinkedIn,IT Services,Converted
+ENQ0259,2026-06-21,Facebook,Course Admission,New
+ENQ0485,15/08/2026,Instagram,COURSE ADMISSION,Lost
+ENQ0041,2026-04-14,Direct,General Query,Lost
+ENQ0289,03/07/2026,Google,General Query,Converted
+ENQ0066,2026-04-24,Referral,Course Admission,New
+ENQ0073,2026-04-27,Direct,Course Admission,in progress
+ENQ0473,2026-08-12,referral,Internship,New
+ENQ0427,2026-08-04,Google,Course Admission,Converted
+ENQ0114,09/05/2026,Google,IT Services,lost
+ENQ0353,2026-07-19,LinkedIn,course admission,Lost
+ENQ0503,18-08-2026,Referral,App Development,In Progress
+ENQ0553,29-08-2026,Google,Course Admission ,In Progress
+ENQ0643,2026-09-18,Referral,Workshop Registration,In Progress
+ENQ0433,2026-08-05,LINKEDIN ,Internship,In Progress
+ENQ0374,2026-07-23,Insta,Web Development,Converted
+ENQ0344,2026-07-16,Direct,General Query,Lost
+ENQ0131,14-05-2026,LinkedIn,IT Services,Lost
+ENQ0613,2026-09-11,LinkedIn,IT Services,New
+ENQ0121,10-05-2026,Facebook,General Query,Converted
+ENQ0008,2026-04-04,LinkedIn,Course Admission,In Progress
+ENQ0568,2026-09-02,Direct,Web Development,
+ENQ0232,14-06-2026,YOUTUBE,Internship,Lost
+ENQ0424,2026-08-04,youtube,APP DEVELOPMENT,Lost
+ENQ0538,2026-08-26,Facebook,Web Development,Lost
+ENQ0013,2026-04-05,Direct,Web Development,Converted
+ENQ0172,2026-05-25,Referral,Course Admission,In Progress
+ENQ0550,2026-08-29,Google,,Converted
+ENQ0226,2026-06-13,Facebook,Course Admission ,Converted
+ENQ0472,2026-08-12,,Course Admission,Lost
+ENQ0548,28-08-2026,Direct,Course Admission,Lost
+ENQ0624,2026-09-13,LinkedIn,Web Development,Converted
+ENQ0102,2026-05-05,Google,Web Development,in progress
+ENQ0124,2026-05-11,Direct,Course Admission,In Progress
+ENQ0639,2026-09-16,Insta,Course Admission,lost
+ENQ0181,2026-05-28,LinkedIn,IT Services,lost
+ENQ0162,2026-05-22,YouTube,Internship,Converted
+ENQ0331,2026-07-13,Instagram,Workshop Registration,Lost
+ENQ0153,2026-05-21,LinkedIn,App Development,In Progress
+ENQ0312,2026-07-07,LinkedIn,Internship,Lost
+ENQ0670,2026-09-23,Google,Workshop Registration,In Progress
+ENQ0346,2026-07-16,Referral,Course Admission ,Lost
+ENQ0328,2026-07-13,Google,COURSE ADMISSION,
+ENQ0273,27-06-2026,Direct ,Internship,In Progress
+ENQ0449,2026-08-07,Referral,Internship,Lost
+ENQ0213,08/06/2026,Direct,Course Admission,New
+ENQ0206,2026-06-05,,Workshop Registration,Converted
+ENQ0315,2026-07-08,Google,IT Services,In Progress
+ENQ0135,2026-05-15,Direct ,Workshop Registration,Converted
+ENQ0156,2026-05-21,Direct,Web Development,Lost
+ENQ0683,25/09/2026,LinkedIn,Course Admission,Lost
+ENQ0140,2026-05-17,Direct,General Query,New
+ENQ0305,2026-07-06,Google ,Course Admission,Lost 
+ENQ0301,2026-07-05,Direct,App Development,In Progress
+ENQ0061,22/04/2026,Direct,Workshop Registration,new
+ENQ0574,2026-09-03,Direct,Internship,Lost
+ENQ0626,2026-09-14,Direct,COURSE ADMISSION,New
+ENQ0166,2026-05-24,LinkedIn,internship,New
+ENQ0412,2026-08-03,Instagram,Workshop Registration,Lost
+ENQ0505,19/08/2026,Google,COURSE ADMISSION,Lost
+ENQ0696,2026-09-27,LinkedIn,IT Services,Lost
+ENQ0228,2026-06-13,Google,IT Services,New
+ENQ0703,2026-09-29,Instagram,Course Admission,Lost
+ENQ0266,2026-06-25,LinkedIn,IT Services,Lost
+ENQ0403,2026-07-31,Google,Internship,Converted 
+ENQ0222,2026-06-11,Instagram,Workshop Registration,New
+ENQ0132,2026-05-14,LinkedIn,Web Development,In Progress
+ENQ0059,22-04-2026,INSTAGRAM,Course Admission,
+ENQ0415,2026-08-03,YouTube,Course Admission,In Progress
+ENQ0388,2026-07-27,Facebook,Course Admission ,New
+ENQ0516,2026-08-21,LinkedIn,Workshop Registration,In Progress
+ENQ0161,2026-05-22,Google,Web Development ,New
+ENQ0318,08/07/2026,Direct,App Development,Lost
+ENQ0039,2026-04-13,Google,IT Services,Lost
+ENQ0515,2026-08-21,Google,Course Admission,Converted
+ENQ0241,16/06/2026,Direct,Workshop Registration,IN PROGRESS
+ENQ0147,19/05/2026,LinkedIn,Workshop Registration,In Progress
+ENQ0054,2026-04-20,Referral,Course Admission,Converted
+ENQ0524,2026-08-23,LinkedIn,WEB DEVELOPMENT,In Progress
+ENQ0137,2026-05-15,INSTAGRAM,Course Admission,Lost
+ENQ0195,2026-06-02,google,General Query,Lost
+ENQ0448,2026-08-07,Google,workshop registration,In Progress
+ENQ0504,2026-08-18,Facebook,Workshop Registration,New
+ENQ0432,2026-08-05,Google,Course Admission,Lost
+ENQ0296,05/07/2026,LinkedIn,general query,Lost
+ENQ0378,2026-07-24,LinkedIn,,Lost
+ENQ0700,28/09/2026,Facebook ,IT Services,In Progress
+ENQ0582,2026-09-05,Google,IT Services,New
+ENQ0194,2026-06-02,Instagram,Workshop Registration,Lost
+ENQ0067,2026-04-24,LinkedIn,Internship,New
+ENQ0584,05/09/2026,Facebook,Course Admission,Lost
+ENQ0456,2026-08-08,Direct,Workshop Registration,In Progress
+ENQ0277,2026-06-29,Instagram,Workshop Registration,Lost
+ENQ0053,2026-04-19,Google,Workshop Registration,Lost
+ENQ0686,26/09/2026,LinkedIn,Workshop Registration,In Progress
+ENQ0410,2026-08-02,Instagram,Workshop Registration,Converted
+ENQ0697,28/09/2026,Instagram,Workshop Registration,New
+ENQ0618,12/09/2026,LINKEDIN ,IT Services,New
+ENQ0240,2026-06-16,LinkedIn,Course Admission,Lost
+ENQ0247,2026-06-19,Google,Course Admission,Converted
+ENQ0179,2026-05-28,Google,General Query,New
+ENQ0401,2026-07-30,Instagram,Course Admission,Converted
+ENQ0118,2026-05-10,Referral,General Query,Lost
+ENQ0029,2026-04-10,GOOGLE,IT Services,Converted
+ENQ0547,2026-08-28,LinkedIn,Internship,IN PROGRESS
+ENQ0245,2026-06-18,Direct,General Query,New
+ENQ0104,2026-05-06,LinkedIn,Web Development,CONVERTED
+ENQ0111,2026-05-08,Instagram,Course Admission,New
+ENQ0684,25/09/2026,google,IT Services,Converted
+ENQ0160,2026-05-22,Google,Web Development,Lost
+ENQ0236,2026-06-15,Direct,Workshop Registration,Lost
+ENQ0469,2026-08-11,Google,General Query,Lost
+ENQ0113,2026-05-09,Direct,General Query ,In Progress
+ENQ0481,2026-08-13,,Workshop Registration,Lost
+ENQ0627,14-09-2026,INSTAGRAM,Web Development,Lost
+ENQ0678,2026-09-24,YouTube,General Query,converted
+ENQ0263,2026-06-23,LinkedIn,Course Admission,In Progress
+ENQ0224,2026-06-12,Instagram,Course Admission,Lost
+ENQ0512,2026-08-21,Instagram,Workshop Registration,In Progress
+ENQ0290,2026-07-03,LINKEDIN ,Web Development,in progress
+ENQ0541,2026-08-27,Google,Internship,New
+ENQ0343,2026-07-15,Direct,Internship,In Progress
+ENQ0168,2026-05-24,Google,Web Development,In Progress 
+ENQ0636,2026-09-16,LinkedIn,IT Services,New
+ENQ0242,2026-06-17,LinkedIn,App Development,Converted
+ENQ0366,2026-07-22,Instagram,Course Admission,Lost
+ENQ0702,2026-09-29,Instagram,Workshop Registration,Lost
+ENQ0025,2026-04-09,Direct,App Development,New
+ENQ0392,28/07/2026,Google,Workshop Registration,Converted
+ENQ0596,2026-09-08,,Course Admission,Lost
+ENQ0534,2026-08-25,LinkedIn,App Development,New
+ENQ0151,2026-05-20,Referral,Internship,Converted
+ENQ0042,14/04/2026,Instagram,Course Admission,
+ENQ0095,03/05/2026,Google,IT Services,In Progress
+ENQ0428,05/08/2026,Google,Course Admission,New
+ENQ0648,19/09/2026,Google,IT Services,In Progress
+ENQ0552,29/08/2026,LinkedIn,Web Development,lost
+ENQ0024,09-04-2026,Facebook,App Development,New
+ENQ0269,2026-06-26,LinkedIn,WORKSHOP REGISTRATION,In Progress
+ENQ0201,2026-06-04,Instagram,App Development,Lost
+ENQ0174,2026-05-25,Instagram,Workshop Registration ,New
+ENQ0101,2026-05-05,Referral,Internship,Lost
+ENQ0336,14/07/2026,Direct,IT Services,New
+ENQ0511,2026-08-20,INSTAGRAM,Workshop Registration,
+ENQ0671,2026-09-23,Instagram,Web Development,Converted
+ENQ0544,2026-08-28,Google,App Development,New
+ENQ0345,2026-07-16,LinkedIn,Web Development,In Progress
+ENQ0223,2026-06-11,Facebook,General Query,Converted
+ENQ0471,2026-08-11,Instagram,Course Admission,Converted 
+ENQ0189,2026-06-01,Instagram,COURSE ADMISSION,Lost
+ENQ0319,2026-07-09,YouTube,Workshop Registration,Lost 
+ENQ0601,2026-09-09,Referral,Internship,New
+ENQ0077,2026-04-28,Direct,Course Admission,In Progress
+ENQ0243,2026-06-17,Google,COURSE ADMISSION,Lost
+ENQ0024,09-04-2026,Facebook,App Development,New
+ENQ0074,2026-04-28,YouTube,App Development,Converted
+ENQ0707,2026-09-30,Instagram,Course Admission,New
+ENQ0417,2026-08-03,Google,Web Development,CONVERTED
+ENQ0694,2026-09-27,Direct,General Query,New
+ENQ0442,2026-08-06,LinkedIn,IT Services,In Progress
+ENQ0659,2026-09-20,LinkedIn,Internship,In Progress
+ENQ0536,2026-08-26,Direct,IT Services,In Progress
+ENQ0463,10/08/2026,LinkedIn,IT Services,Lost
+ENQ0430,2026-08-05,Instagram,Course Admission,Lost
+ENQ0006,2026-04-03,Linkedin,Web Development,Converted
+ENQ0334,2026-07-14,Google,Internship,Lost
+ENQ0341,2026-07-15,Instagram,Internship,in progress
+ENQ0070,2026-04-26,Google,Workshop Registration,In Progress
+ENQ0015,2026-04-06,Instagram,Course Admission,Lost
+ENQ0079,29-04-2026,INSTAGRAM,Workshop Registration,New
+ENQ0203,2026-06-04,Google,course admission,Lost
+ENQ0665,2026-09-21,Instagram,Course Admission,Converted
+ENQ0005,2026-04-03,LinkedIn,Internship,New
+ENQ0505,19/08/2026,Google,COURSE ADMISSION,Lost
+ENQ0622,2026-09-13,LinkedIn,App Development,In Progress
+ENQ0440,2026-08-06,Instagram,Workshop Registration,Lost
+ENQ0502,2026-08-18,Instagram,Workshop Registration,Lost
+ENQ0570,2026-09-03,Instagram,Workshop Registration,New
+ENQ0294,2026-07-05,Google,Internship,In Progress
+ENQ0072,2026-04-27,Direct,IT Services,Lost
+ENQ0658,2026-09-20,Google,IT Services,In Progress
+ENQ0003,2026-04-02,Direct,Web Development,Lost
+ENQ0026,2026-04-09,LinkedIn,General Query,Lost
+ENQ0309,2026-07-06,Direct,IT Services,Lost
+ENQ0217,2026-06-10,LinkedIn,IT Services,In Progress
+ENQ0630,14-09-2026,Google,IT Services,In Progress
+ENQ0167,2026-05-24,Referral,Course Admission,Converted
+ENQ0480,2026-08-13,Google,Web Development,In Progress
+ENQ0674,2026-09-23,Google,Internship,Lost
+ENQ0332,2026-07-13,LinkedIn,IT Services,Converted
+ENQ0178,27/05/2026,Google,Workshop Registration,Lost
+ENQ0248,2026-06-19,Instagram,Internship,In Progress
+ENQ0400,2026-07-30,Direct,COURSE ADMISSION,In Progress 
+ENQ0082,29-04-2026,Instagram,course admission,Lost
+ENQ0704,2026-09-29,YouTube,Course Admission,Lost
+ENQ0522,22/08/2026,Facebook,Internship,Lost
+ENQ0558,2026-08-30,YouTube,WEB DEVELOPMENT,Converted
+ENQ0587,2026-09-06,LinkedIn,IT Services,In Progress
+ENQ0308,2026-07-06,Facebook,App Development,Lost
+ENQ0049,2026-04-16,INSTAGRAM,Course Admission,Lost
+ENQ0641,17-09-2026,Google,IT Services ,In Progress
+ENQ0530,2026-08-25,LinkedIn,IT Services,In Progress
+ENQ0055,2026-04-20,Instagram,Course Admission,New
+ENQ0482,13-08-2026,Google,Web Development,lost
+ENQ0235,2026-06-15,Google,App Development,New
+ENQ0115,2026-05-09,LinkedIn,IT Services,Converted
+ENQ0521,22-08-2026,Facebook,IT Services,Lost
+ENQ0330,2026-07-13,instagram,,Lost
+ENQ0192,2026-06-01,LinkedIn,Web Development,Lost
+ENQ0373,23-07-2026,Instagram,Workshop Registration,Lost
+ENQ0152,2026-05-20,Google,Course Admission,in progress
+ENQ0180,2026-05-28,LinkedIn,App Development,In Progress
+ENQ0646,2026-09-18,Google,Web Development,Lost
+ENQ0155,21/05/2026,Instagram,Internship,Converted
+ENQ0257,2026-06-21,Instagram,Course Admission,In Progress
+ENQ0364,2026-07-22,Direct,Course Admission,new
+ENQ0554,2026-08-29,Google,Workshop Registration,Lost
+ENQ0519,2026-08-21,LinkedIn,it services,Lost
+ENQ0676,2026-09-24,LinkedIn,General Query,Lost
+ENQ0176,2026-05-27,Instagram,Course Admission,In Progress
+ENQ0030,2026-04-11,YouTube,,IN PROGRESS
+ENQ0127,2026-05-12,,Course Admission,In Progress
+ENQ0500,2026-08-17,Google,IT Services,Converted
+ENQ0071,2026-04-27,Direct,General Query,New
+ENQ0146,2026-05-19,LinkedIn,Internship,Lost
+ENQ0666,22/09/2026,Google,Web Development,
+ENQ0637,2026-09-16,Google,Course Admission,In Progress
+ENQ0598,2026-09-09,Instagram,Course Admission,Converted
+ENQ0216,2026-06-09,LinkedIn,Course Admission,Lost
+ENQ0287,2026-07-03,Instagram,General Query,In Progress
+ENQ0438,2026-08-06,Google,Web Development,Lost
+ENQ0231,2026-06-14,Direct,Workshop Registration,Lost
+ENQ0197,2026-06-03,YouTube,General Query,Lost
+ENQ0267,2026-06-26,Google ,Course Admission,Lost
+ENQ0532,2026-08-25,Google,General Query,In Progress
+ENQ0018,2026-04-08,Google,Course Admission,New
+ENQ0466,2026-08-10,Instagram,Workshop Registration,Converted
+ENQ0560,2026-08-31,Google,General Query,Lost
+ENQ0028,10/04/2026,,General Query,In Progress
+ENQ0394,2026-07-28,Google,App Development,Lost
+ENQ0278,2026-06-29,Facebook,IT Services,Lost
+ENQ0120,2026-05-10,Direct,Workshop Registration,Converted
+ENQ0396,2026-07-29,Google,,New
+ENQ0355,2026-07-19,Facebook,Workshop Registration,Converted
+ENQ0229,13-06-2026,Referral,Course Admission,Lost
+ENQ0413,2026-08-03,Facebook,IT Services,In Progress
+ENQ0321,2026-07-09,LinkedIn,IT Services ,Lost
+ENQ0170,2026-05-24,LinkedIn,General Query,Converted
+ENQ0148,19/05/2026,Facebook,Web Development,In Progress
+ENQ0286,2026-07-02,Facebook,Internship,Lost
+ENQ0215,2026-06-09,Google,web development,In Progress
+ENQ0112,2026-05-08,LinkedIn,IT Services,New
+ENQ0681,2026-09-25,Google,Workshop Registration,Lost
+ENQ0399,2026-07-29,YouTube,Internship,New
+ENQ0603,2026-09-09,Instagram,Workshop Registration,Lost
+ENQ0384,2026-07-27,LinkedIn,Web Development,In Progress
+ENQ0513,21/08/2026,Instagram,Course Admission,Converted
+ENQ0514,2026-08-21,Facebook,General Query,Converted
+ENQ0107,2026-05-06,Google,IT Services,Lost 
+ENQ0351,2026-07-19,Google,Internship,Lost
+ENQ0567,02/09/2026,GOOGLE,,Lost
+ENQ0656,2026-09-20,Instagram,Course Admission,In Progress
+ENQ0390,2026-07-28,Facebook,Course Admission,Lost
+ENQ0094,03/05/2026,,IT Services ,Converted
+ENQ0260,2026-06-21,Referral,IT Services,In Progress 
+ENQ0043,2026-04-14,LinkedIn,Web Development,Lost
+ENQ0164,2026-05-22,Referral,Web Development,Lost
+ENQ0638,2026-09-16,INSTAGRAM,Workshop Registration,
+ENQ0171,2026-05-24,Google,Course Admission,Lost
+ENQ0255,2026-06-20,LinkedIn,IT Services ,New
+ENQ0611,2026-09-11,Instagram,App Development,In Progress
+ENQ0495,2026-08-16,LinkedIn,Internship,Lost
+ENQ0091,2026-05-02,Google,app development,In Progress
+ENQ0431,2026-08-05,Google,Workshop Registration,Lost
+ENQ0307,2026-07-06,Direct,Workshop Registration,In Progress
+ENQ0036,2026-04-12,Referral,,Lost
+ENQ0579,2026-09-04,Direct,Internship,New
+ENQ0253,2026-06-20,Instagram,Course Admission,New
+ENQ0429,2026-08-05,Referral,Internship,Lost 
+ENQ0599,2026-09-09,Google,IT Services,converted
+ENQ0543,2026-08-28,LinkedIn,IT Services,In Progress
+ENQ0633,2026-09-15,Referral,General Query,Converted
+ENQ0397,2026-07-29,LinkedIn,,Lost
+ENQ0490,15-08-2026,Instagram,Internship,New
+ENQ0270,26/06/2026,Instagram,Web Development,In Progress
+ENQ0356,19/07/2026,Instagram,General Query,New
+ENQ0496,2026-08-16,Insta,Workshop Registration,Lost
+ENQ0465,2026-08-10,LinkedIn,Course Admission,Converted
+ENQ0119,2026-05-10,Instagram,APP DEVELOPMENT,Lost
+ENQ0439,2026-08-06,Google,IT Services,In Progress
+ENQ0163,2026-05-22,Google,Web Development,Converted 
+ENQ0414,2026-08-03,Google,IT Services,In Progress
+ENQ0559,2026-08-30,Google,General Query,Converted
+ENQ0572,2026-09-03,Referral,IT Services,Converted
+ENQ0474,2026-08-12,Direct,Course Admission,In Progress
+ENQ0007,03/04/2026,referral,Workshop Registration,Converted
+ENQ0606,2026-09-10,Facebook,General Query,Lost
+ENQ0306,06/07/2026,Instagram,,Lost
+ENQ0311,2026-07-07,Instagram,IT Services,In Progress
+ENQ0583,2026-09-05,Google,General Query,Converted
+ENQ0292,2026-07-04,Google,Course Admission,Lost
+ENQ0175,2026-05-26,Facebook,App Development,Lost
+ENQ0376,2026-07-24,Google,Web Development,Lost
+ENQ0619,13-09-2026,LinkedIn,Web Development,New
+ENQ0100,2026-05-05,Instagram,Workshop Registration ,Converted
+ENQ0230,2026-06-14,LinkedIn,Workshop Registration,Converted
+ENQ0265,2026-06-25,Google,,In Progress
+ENQ0395,2026-07-28,LinkedIn,Internship,In Progress
+ENQ0369,2026-07-23,Direct,Course Admission,NEW
+ENQ0489,2026-08-15,LinkedIn,IT Services,Lost
+ENQ0385,2026-07-27,Google,Workshop Registration,New
+ENQ0625,2026-09-14,LinkedIn,Web Development,Lost
+ENQ0614,12/09/2026,GOOGLE,Web Development,In Progress
+ENQ0218,2026-06-10,LinkedIn,Internship,Converted
+ENQ0645,2026-09-18,YouTube,Internship,Converted
+ENQ0706,2026-09-30,LinkedIn,Course Admission,Lost
+ENQ0354,19/07/2026,Google,Internship,Converted
+ENQ0404,2026-07-31,Referral,IT Services,Lost
+ENQ0525,2026-08-23,Instagram,course admission,In Progress
+ENQ0280,30-06-2026,Google,IT Services,Lost
+ENQ0099,2026-05-05,LinkedIn,Internship,Lost
+ENQ0190,2026-06-01,Google,Web Development,In Progress
+ENQ0375,2026-07-24,Instagram,web development,New
+ENQ0333,2026-07-13,Facebook,Course Admission,In Progress
+ENQ0304,2026-07-06,Direct,Internship,In Progress
+ENQ0261,2026-06-21,Google,Internship,Lost
+ENQ0145,2026-05-19,Google,Course Admission ,Converted 
+ENQ0654,2026-09-19,Instagram,,Converted
+ENQ0557,2026-08-30,LinkedIn,App Development,Lost
+ENQ0187,31/05/2026,Google,Internship,Lost
+ENQ0284,2026-07-01,LinkedIn,Web Development,In Progress
+ENQ0408,2026-08-01,instagram,App Development,Lost
+ENQ0620,2026-09-13,Google,App Development,Lost
+ENQ0426,2026-08-04,Direct,Internship,In Progress
+ENQ0012,2026-04-05,Google,IT Services,converted
+ENQ0592,2026-09-07,LinkedIn,Internship,In Progress
+ENQ0379,2026-07-24,LinkedIn,IT Services,In Progress
+ENQ0533,2026-08-25,Direct,Internship,In Progress
+ENQ0182,2026-05-28,LinkedIn,Internship,In Progress
+ENQ0615,12/09/2026,Direct,Course Admission,New
+ENQ0383,2026-07-27,LinkedIn,Course Admission,Converted
+ENQ0461,2026-08-10,YouTube,Web Development,Lost
+ENQ0470,2026-08-11,Referral,Internship ,In Progress
+ENQ0128,2026-05-12,INSTAGRAM,,Converted
+ENQ0640,2026-09-17,Google,IT Services,Lost
+ENQ0520,2026-08-21,Facebook,Web Development,In Progress
+ENQ0058,2026-04-21,LinkedIn,Web Development,Lost
+ENQ0444,2026-08-06,Direct,Web Development,Lost 
+ENQ0387,2026-07-27,Google,General Query,CONVERTED
+ENQ0034,11/04/2026,Facebook,App Development,Lost
+ENQ0238,2026-06-16,Instagram,Workshop Registration,In Progress
+ENQ0663,2026-09-21,Facebook,General Query,Lost
+ENQ0283,2026-07-01,linkedin,Web Development,In Progress
+ENQ0075,2026-04-28,Google,Workshop Registration,Lost
+ENQ0635,2026-09-15,Instagram,General Query,In Progress
+ENQ0363,2026-07-21,Google,Internship,New
+ENQ0244,2026-06-17,LinkedIn,Web Development,Lost
+ENQ0092,2026-05-03,Google,IT Services,In Progress
+ENQ0093,2026-05-03,Google,general query,In Progress
+ENQ0211,2026-06-07,Direct,Course Admission,Lost
+ENQ0338,15/07/2026,LinkedIn,General Query,Converted
+ENQ0302,2026-07-05,Direct,Workshop Registration,Lost
+ENQ0086,2026-04-30,,App Development,Lost
+ENQ0191,2026-06-01,LinkedIn,Internship,Lost
+ENQ0040,2026-04-14,Facebook,Internship,In Progress
+ENQ0501,2026-08-18,Facebook,Course Admission,In Progress
+ENQ0508,2026-08-19,Instagram,Workshop Registration,In Progress
+ENQ0517,21/08/2026,LinkedIn,IT Services,In Progress
+ENQ0105,2026-05-06,LinkedIn,Workshop Registration ,In Progress
+ENQ0407,2026-07-31,Google,IT Services,New
+ENQ0234,14/06/2026,Instagram,Course Admission,New
+ENQ0106,2026-05-06,YouTube,Internship,Lost
+ENQ0342,2026-07-15,Direct,App Development,In Progress
+ENQ0254,2026-06-20,LinkedIn,it services,Converted
+ENQ0409,02-08-2026,Referral,IT Services,LOST
+ENQ0423,2026-08-04,Direct,Course Admission,Lost
+ENQ0209,2026-06-06,Facebook,App Development,New
+ENQ0705,2026-09-29,,IT Services,Lost
+ENQ0555,2026-08-30,Facebook,Course Admission,converted
+ENQ0083,2026-04-30,INSTAGRAM,IT Services ,In Progress
+ENQ0498,2026-08-17,Google,Internship,Lost
+ENQ0661,2026-09-21,Direct,Workshop Registration,New
+ENQ0564,2026-09-01,Direct,Workshop Registration,
+ENQ0088,01/05/2026,Google,Course Admission,In Progress
+ENQ0065,2026-04-23,Referral,Workshop Registration,In Progress
+ENQ0271,2026-06-27,Direct,Internship,Lost
+ENQ0275,2026-06-28,Google,Workshop Registration,Converted
+ENQ0642,2026-09-17,Instagram,Workshop Registration,In Progress
+ENQ0154,21/05/2026,LinkedIn,App Development,Converted
+ENQ0566,02-09-2026,Google,Web Development,Lost
+ENQ0411,2026-08-03,Google,,Lost 
+ENQ0518,2026-08-21,Facebook,IT Services,In Progress
+ENQ0045,2026-04-15,Referral,,In Progress
+ENQ0391,2026-07-28,Google,Internship,Converted
+ENQ0221,11-06-2026,Google,COURSE ADMISSION,Lost
+ENQ0141,2026-05-17,Instagram,Web Development,In Progress
+ENQ0350,2026-07-18,Google,Web Development,In Progress
+ENQ0358,2026-07-20,Direct,General Query,In Progress
+ENQ0134,2026-05-15,Direct,Internship,Converted
+ENQ0262,2026-06-22,LinkedIn,IT Services,In Progress
+ENQ0279,2026-06-29,LinkedIn,Course Admission,Lost
+ENQ0080,2026-04-29,Direct ,IT Services,New
+ENQ0701,2026-09-29,Instagram,Course Admission,Lost
+ENQ0116,2026-05-09,Instagram,Workshop Registration,Converted
+ENQ0594,08-09-2026,Instagram,Course Admission,Lost
+ENQ0427,2026-08-04,Google,Course Admission,Converted
+ENQ0381,26/07/2026,Facebook,Course Admission,In Progress
+ENQ0669,22-09-2026,LinkedIn,IT Services,Converted
+ENQ0185,2026-05-29,Instagram,Workshop Registration,Converted
+ENQ0573,2026-09-03,Instagram,App Development,Lost
+ENQ0359,2026-07-20,,IT Services,Lost
+ENQ0037,2026-04-12,Facebook,Web Development,Lost
+ENQ0340,2026-07-15,LinkedIn,App Development,converted
+ENQ0609,2026-09-10,linkedin,IT Services,Lost
+ENQ0421,2026-08-04,Google,COURSE ADMISSION,In Progress
+ENQ0150,2026-05-20,Direct,General Query,New
+ENQ0010,2026-04-05,LinkedIn,App Development ,In Progress
+ENQ0046,2026-04-15,Google,IT Services,lost
+ENQ0096,2026-05-04,LinkedIn,,Converted
+ENQ0653,19/09/2026,LinkedIn,App Development,New
+ENQ0278,2026-06-29,Facebook,IT Services,Lost
+ENQ0549,2026-08-29,Google,General Query,In Progress
+ENQ0561,2026-08-31,Google,IT Services,Lost
+ENQ0299,2026-07-05,Facebook,Course Admission,CONVERTED
+ENQ0291,2026-07-04,Google,Course Admission,Lost
+ENQ0416,2026-08-03,LinkedIn,Workshop Registration,Lost
+ENQ0314,2026-07-08,Google,IT Services,Converted
+ENQ0422,2026-08-04,Instagram,Workshop Registration,In Progress
+ENQ0123,2026-05-11,Google,Workshop Registration,lost
+ENQ0612,2026-09-11,Google ,IT Services,Lost
+ENQ0595,08/09/2026,Instagram,Course Admission,
+ENQ0362,2026-07-21,YouTube,General Query,Lost
+ENQ0337,2026-07-15,Facebook,COURSE ADMISSION,In Progress
+ENQ0136,2026-05-15,Google,Workshop Registration,Lost
+ENQ0617,12/09/2026,Direct,Workshop Registration,New
+ENQ0368,23-07-2026,LinkedIn,Web Development,Converted
+ENQ0691,2026-09-27,LinkedIn,IT Services,In Progress
+ENQ0652,2026-09-19,Referral,INTERNSHIP,LOST
+ENQ0009,04/04/2026,Referral,General Query,Converted
+ENQ0098,2026-05-05,Instagram,General Query,Lost
+ENQ0699,2026-09-28,Referral,,Lost
+ENQ0349,18/07/2026,Google,Internship,Converted
+ENQ0510,2026-08-20,Referral,Web Development,In Progress
+ENQ0687,2026-09-26,Google,Web Development,Lost
+ENQ0022,08/04/2026,Instagram,Course Admission,New
+ENQ0483,2026-08-14,LinkedIn,Internship,In Progress
+ENQ0695,27/09/2026,LinkedIn,Course Admission,Lost
+ENQ0406,31-07-2026,Google,IT Services,Lost
+ENQ0479,2026-08-13,Google,Workshop Registration,Converted
+ENQ0591,2026-09-06,Google,Internship,Lost
+ENQ0492,2026-08-16,LinkedIn,Internship,New
+ENQ0047,2026-04-16,Facebook,IT Services,In Progress
+ENQ0365,2026-07-22,Facebook,Web Development,lost
+ENQ0297,2026-07-05,Google ,Web Development,Converted
+ENQ0050,2026-04-18,Google,IT Services,In Progress
+ENQ0488,15/08/2026,LinkedIn,General Query,Lost
+ENQ0225,2026-06-12,Google,Course Admission,In Progress
+ENQ0220,2026-06-11,Referral,IT Services,In Progress
+ENQ0677,2026-09-24,Instagram,Web Development,Lost
+ENQ0430,2026-08-05,Instagram,Course Admission,Lost
+ENQ0202,04/06/2026,YouTube,Workshop Registration,Converted
+ENQ0563,2026-09-01,Google,Web Development ,Converted
+ENQ0102,2026-05-05,Google,Web Development,in progress
+ENQ0064,2026-04-23,LinkedIn,Web Development,CONVERTED
+ENQ0605,2026-09-10,Referral,Course Admission,New
+ENQ0246,2026-06-18,Google,IT Services,New
+ENQ0443,2026-08-06,Google,Course Admission,New
+ENQ0632,2026-09-15,,course admission,Converted
+ENQ0575,03-09-2026,Instagram,WORKSHOP REGISTRATION,Converted 
+ENQ0001,2026-04-01,Direct,Web Development,In Progress
+ENQ0540,27/08/2026,YouTube,Workshop Registration,In Progress
+ENQ0188,2026-05-31,LinkedIn,Internship,Lost
+ENQ0407,2026-07-31,Google,IT Services,New
+ENQ0149,2026-05-20,LinkedIn,IT Services,In Progress
+ENQ0027,2026-04-10,LinkedIn,IT Services,In Progress
+ENQ0462,2026-08-10,Google,Web Development,In Progress
+ENQ0060,2026-04-22,INSTAGRAM,IT SERVICES,In Progress
+ENQ0327,2026-07-12,LinkedIn,Internship,In Progress
+ENQ0425,2026-08-04,YouTube,Workshop Registration,
+ENQ0478,2026-08-13,Direct,Workshop Registration,In Progress
+ENQ0044,2026-04-15,Direct,Web Development,Converted
+ENQ0529,2026-08-24,Facebook,WORKSHOP REGISTRATION,Lost
+ENQ0484,2026-08-14,Google,Workshop Registration,Converted
+ENQ0219,2026-06-11,Insta,Course Admission,Lost 
+ENQ0365,2026-07-22,Facebook,Web Development,lost
+ENQ0664,2026-09-21,YouTube,General Query,New
+ENQ0610,2026-09-10,Google,IT Services,lost
+ENQ0486,2026-08-15,Direct,Web Development,In Progress
+ENQ0126,2026-05-11,Facebook,General Query,Lost
+ENQ0651,2026-09-19,Direct,Internship,Lost
+ENQ0062,2026-04-23,Google,IT Services,Lost
+ENQ0082,29-04-2026,Instagram,course admission,Lost
+ENQ0325,12/07/2026,Google,Course Admission,In Progress
+ENQ0386,2026-07-27,Google,Workshop Registration,New
+ENQ0536,2026-08-26,Direct,IT Services,In Progress
+ENQ0057,2026-04-21,Instagram,,Lost
+ENQ0020,2026-04-08,Facebook,Internship,Lost
+ENQ0689,2026-09-27,Direct,Internship,Lost
+ENQ0087,2026-05-01,Google,Workshop Registration,IN PROGRESS
+ENQ0650,2026-09-19,LinkedIn,Web Development,Converted
+ENQ0317,2026-07-08,Direct,Course Admission,Converted
+ENQ0035,2026-04-12,,Course Admission,Lost
+ENQ0139,16/05/2026,Facebook,Web Development,New
+ENQ0589,06/09/2026,Google,IT Services,Converted
+ENQ0499,2026-08-17,LinkedIn,IT Services,In Progress
+ENQ0539,27/08/2026,LinkedIn,Course Admission,In Progress
+ENQ0556,30-08-2026,Facebook,Internship,Converted
+ENQ0097,2026-05-05,Instagram,Workshop Registration,New
+ENQ0084,2026-04-30,LinkedIn,Internship,New
+ENQ0447,2026-08-07,Instagram,Course Admission,Converted
+ENQ0475,2026-08-12,INSTAGRAM,course admission,Lost
+ENQ0367,2026-07-22,LinkedIn,IT Services,In Progress
+ENQ0586,2026-09-05,Google,General Query,Lost
+ENQ0672,2026-09-23,Google,Course Admission,Lost
+ENQ0402,2026-07-31,Google,Course Admission,In Progress
+ENQ0393,2026-07-28,LinkedIn,Web Development,lost
+ENQ0673,2026-09-23,LinkedIn,IT Services,Converted
+ENQ0272,2026-06-27,Google,Course Admission,Converted
+ENQ0507,2026-08-19,Direct,Course Admission,Converted
+ENQ0416,2026-08-03,LinkedIn,Workshop Registration,Lost
+ENQ0435,2026-08-05,Instagram,,New
+ENQ0649,2026-09-19,Linkedin,App Development,In Progress 
+ENQ0562,2026-08-31,YouTube,Course Admission,In Progress
+ENQ0208,2026-06-06,Google,IT Services,In Progress
+ENQ0320,2026-07-09,YouTube,Course Admission,Converted
+ENQ0133,2026-05-14,LinkedIn,App Development,Converted
+ENQ0051,2026-04-18,Facebook,GENERAL QUERY,Converted
+ENQ0239,2026-06-16,Instagram,Internship,Lost
+ENQ0565,01-09-2026,LinkedIn,IT Services,In Progress
+ENQ0593,2026-09-07,Google ,IT Services,Lost
+ENQ0451,2026-08-07,YouTube,Course Admission,Converted
+ENQ0032,2026-04-11,LinkedIn,General Query,Converted
+ENQ0122,2026-05-10,LinkedIn,Internship,Lost
+ENQ0212,2026-06-08,INSTAGRAM,General Query,Converted
+ENQ0352,2026-07-19,Google,Workshop Registration,In Progress
+ENQ0455,2026-08-08,Google,Course Admission,In Progress
+ENQ0303,2026-07-06,Google Search,IT Services,Lost
+ENQ0089,2026-05-02,Google,IT Services,new
+ENQ0326,2026-07-12,Instagram,Workshop Registration,Lost
+ENQ0324,2026-07-12,Google Search,Internship,
+ENQ0256,2026-06-21,LinkedIn,App Development,In Progress
+ENQ0571,2026-09-03,Google,App Development,In Progress
+ENQ0546,2026-08-28,Facebook,WORKSHOP REGISTRATION,New
+ENQ0551,2026-08-29,Instagram,Course Admission,Converted
+ENQ0360,2026-07-21,Google,Web Development,New
+ENQ0052,2026-04-19,LinkedIn,IT Services,Lost
+ENQ0103,2026-05-06,Facebook,Workshop Registration,In Progress
+ENQ0196,2026-06-03,Facebook,Web Development,Lost
+ENQ0680,2026-09-24,Google Search,Web Development,Lost
+ENQ0629,2026-09-14,Referral,Course Admission,Converted
+ENQ0125,2026-05-11,Instagram,Course Admission ,In Progress
+ENQ0405,2026-07-31,Google,General Query ,Lost
+ENQ0288,2026-07-03,Google,IT Services,New
+ENQ0048,16/04/2026,YouTube,Internship,LOST
+ENQ0588,06/09/2026,Facebook,WEB DEVELOPMENT,in progress
+ENQ0608,10/09/2026,,Web Development,Converted
+ENQ0434,2026-08-05,Facebook,Web Development,In Progress 
+ENQ0675,2026-09-24,Instagram,General Query,In Progress
+ENQ0264,24-06-2026,Referral,Workshop Registration,In Progress
+ENQ0361,2026-07-21,INSTAGRAM,Internship,Converted
+ENQ0076,2026-04-28,Instagram,Web Development,Converted
+ENQ0467,2026-08-11,Instagram,General Query,In Progress
+ENQ0300,2026-07-05,Referral,IT Services,New
+ENQ0535,2026-08-26,Direct ,Workshop Registration,In Progress
+ENQ0585,2026-09-05,LinkedIn,Internship,Lost
+ENQ0494,2026-08-16,INSTAGRAM,Workshop Registration,New
+ENQ0528,2026-08-24,Referral,Workshop Registration,Converted
+ENQ0169,24/05/2026,Direct,Workshop Registration,Lost

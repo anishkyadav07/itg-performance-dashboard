@@ -1,0 +1,975 @@
+registration_id,date,program,program_type,mode,source
+REG0609,2026-08-07,CYBER SECURITY AWARENESS WORKSHOP,Workshop,Offline,Direct
+REG0398,2026-06-29,AI & ChatGPT Workshop,Workshop,Online,Facebook
+REG0776,2026-08-30,AI & ChatGPT Workshop,Workshop,Offline,YouTube
+REG0415,2026-07-03,Python Programming,Course,Offline,Google
+REG0198,2026-05-17,Full Stack Web Development ,Course,Offline,Google
+REG0526,2026-07-24,Digital Marketing,Course,Offline,Facebook
+REG0766,2026-08-29,Python Programming,Course,Online,Facebook 
+REG0228,2026-05-21,AI & ChatGPT Workshop,Workshop,Offline,
+REG0820,2026-09-07,Data Science & ML,Course,Online,Google
+REG0578,2026-08-02,Full Stack Web Development,Course,Offline,LinkedIn
+REG0346,17/06/2026,Python Programming,Course,Online,Instagram
+REG0791,2026-09-02,Full Stack Web Development,Course,Offline,referral
+REG0929,2026-09-26,Python Programming,Course,Offline,Referral
+REG0906,21/09/2026,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0102,2026-04-26,Excel & Power BI Workshop,Workshop,Offline,Facebook
+REG0170,2026-05-12,Cyber Security Awareness Workshop,Workshop,Online,Instagram
+REG0753,2026-08-28,EXCEL & POWER BI WORKSHOP,Workshop,Online,Instagram
+REG0576,2026-08-02,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0072,2026-04-18,Digital Marketing,Course,Offline,Direct
+REG0386,2026-06-27,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0607,07/08/2026,AI & ChatGPT Workshop,Workshop,Online,Referral
+REG0705,2026-08-21,Python Programming,Course,ONLINE,Instagram
+REG0016,05/04/2026,Data Science & ML,Course,Offline,Referral
+REG0311,2026-06-11,AI & ChatGPT Workshop,Workshop,Online,Direct
+REG0927,2026-09-24,Data Science & ML,Course,Offline,Google
+REG0711,2026-08-22,AI & ChatGPT Workshop,Workshop,Offline,Facebook 
+REG0100,2026-04-25,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0344,2026-06-16,Full Stack Web Development,Course,Offline,Referral
+REG0616,08/08/2026,Digital Marketing,Course,Online,Direct
+REG0644,2026-08-12,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0472,2026-07-13,AI & ChatGPT Workshop,Workshop,Online,Direct
+REG0464,2026-07-12,Python Programming,Course,Offline,Google Search
+REG0206,2026-05-18,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0165,2026-05-10,Resume & Interview Workshop,Workshop,Online,Direct
+REG0418,03-07-2026,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0851,2026-09-14,Python Programming,Course,Online,Instagram
+REG0913,22-09-2026,Digital Marketing,Course,Offline,Facebook
+REG0812,2026-09-06,,Workshop,Online,Facebook
+REG0921,2026-09-23,Data Science & ML,Course,Offline,Instagram
+REG0834,2026-09-10,Full Stack Web Development,Course,Offline,Instagram
+REG0186,2026-05-15,AI & ChatGPT Workshop,Workshop,Online,Direct
+REG0376,2026-06-24,Python Programming,Course,offline,LinkedIn
+REG0727,2026-08-24,Python Programming,Course,Online,Google
+REG0021,2026-04-05,Data Science & ML,Course,Offline,LinkedIn
+REG0319,12-06-2026,,Workshop,online,Facebook
+REG0857,15/09/2026,Full Stack Web Development,Course,Online,Referral
+REG0798,2026-09-04,Cyber Security Awareness Workshop,Workshop,Online,Instagram
+REG0685,2026-08-18,AI & ChatGPT Workshop,Workshop,Online ,Instagram
+REG0138,2026-05-04,Python Programming,Course,Online,Google 
+REG0860,2026-09-15,Python Programming,Course,Offline,Google
+REG0872,2026-09-17,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0453,2026-07-11,Data Science & ML,Course,Offline,Instagram
+REG0210,2026-05-19,Python Programming,Course,Online,Instagram
+REG0660,2026-08-15,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0068,17/04/2026,Digital Marketing,Course,ONLINE,Instagram
+REG0438,2026-07-08,Cyber Security Awareness Workshop,Workshop,Online,Instagram
+REG0581,2026-08-03,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0289,2026-06-07,Data Science & ML,Course,Offline,Direct
+REG0598,2026-08-05,Digital Marketing,Course,Offline,Google
+REG0193,2026-05-16,Data Science & ML,Course,Online,LinkedIn
+REG0038,2026-04-10,Full Stack Web Development,Course,Online,Direct
+REG0846,13/09/2026,Data Science & ML,Course,Online,GOOGLE
+REG0069,17/04/2026,ai & chatgpt workshop,Workshop,Online,Google
+REG0847,13/09/2026,Full Stack Web Development ,Course,Online,Instagram
+REG0637,11/08/2026,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0829,08/09/2026,Cyber Security Awareness Workshop,Workshop,Online,Instagram
+REG0946,2026-09-28,Full Stack Web Development,Course,Online,Instagram
+REG0489,2026-07-16,Cyber Security Awareness Workshop,Workshop,Online,Facebook
+REG0543,2026-07-26,Cyber Security Awareness Workshop,Workshop,Offline,Facebook
+REG0377,2026-06-25,Cyber Security Awareness Workshop,Workshop,Online,Direct
+REG0281,2026-06-05,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0066,2026-04-16,Resume & Interview Workshop,Workshop,Online,Google
+REG0693,2026-08-20,RESUME & INTERVIEW WORKSHOP,Workshop,Online,Google
+REG0268,2026-06-02,Data Science & ML,Course,Online,GOOGLE
+REG0926,2026-09-24,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0487,2026-07-15,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0142,2026-05-05,Cyber Security Awareness Workshop,Workshop,Online,Instagram
+REG0401,2026-06-30,Digital Marketing,Course,Online,Google
+REG0552,2026-07-28,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0481,2026-07-14,AI & ChatGPT Workshop,Workshop,Offline,
+REG0949,2026-09-29,Excel & Power BI Workshop,Workshop,Offline,Facebook
+REG0493,2026-07-17,python programming,Course,Online,Referral
+REG0231,22/05/2026,Digital Marketing,Course,Offline,LinkedIn
+REG0463,2026-07-12,Python Programming,Course,Online,Google
+REG0509,2026-07-21,Cyber Security Awareness Workshop,Workshop,Online,
+REG0530,2026-07-24,Digital Marketing,Course,Offline,Facebook
+REG0536,2026-07-25,Data Science & ML,Course,Offline,linkedin
+REG0940,2026-09-27,FULL STACK WEB DEVELOPMENT,Course,Online,Direct
+REG0159,2026-05-09,Python Programming,Course,Online,Direct
+REG0008,2026-04-02,Python Programming,Course,Offline,LinkedIn
+REG0844,2026-09-12,excel & power bi workshop,Workshop,Online,Google
+REG0919,2026-09-23,Digital Marketing,Course,Offline,GOOGLE
+REG0224,2026-05-21,Data Science & ML,Course,Offline,Direct
+REG0672,16/08/2026,Digital Marketing,Course,Online,Direct
+REG0554,2026-07-28,Python Programming,Course,Offline,Google
+REG0200,2026-05-17,Full Stack Web Development,Course,Offline,Google
+REG0822,2026-09-07,PYTHON PROGRAMMING,Course,Online,Google
+REG0938,2026-09-27,AI & ChatGPT Workshop,Workshop,,Referral
+REG0718,2026-08-23,Digital Marketing,Course,Offline,Google
+REG0694,2026-08-20,Data Science & ML,Course,Online,Google
+REG0738,2026-08-25,Python Programming,Course,,LinkedIn
+REG0682,2026-08-18,Python Programming,Course,Offline,LinkedIn
+REG0512,2026-07-21,Full Stack Web Development,Course,Online,Google
+REG0544,2026-07-26,,Course,Offline,YouTube
+REG0213,19/05/2026,Resume & Interview Workshop,Workshop,Offline,Facebook
+REG0356,20/06/2026,Full Stack Web Development,Course,Offline,Facebook
+REG0793,03-09-2026,Python Programming,Course,Online,Referral
+REG0424,2026-07-05,Full Stack Web Development,Course,Offline,Referral
+REG0877,2026-09-18,Full Stack Web Development,Course,Online,Google
+REG0237,2026-05-24,Resume & Interview Workshop,Workshop,ONLINE,Instagram
+REG0613,2026-08-08,Data Science & ML,Course,ONLINE,LinkedIn
+REG0285,06-06-2026,Digital Marketing,Course,Offline,Google
+REG0885,2026-09-19,Python Programming,Course,Offline,LinkedIn
+REG0802,2026-09-04,Python Programming,Course,Online,Instagram
+REG0574,2026-08-02,AI & ChatGPT Workshop,Workshop,Online,
+REG0728,2026-08-24,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0345,2026-06-17,Full Stack Web Development,Course,Online ,Google
+REG0781,2026-08-31,,Workshop,Online,Instagram
+REG0778,2026-08-31,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0292,2026-06-07,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0944,28/09/2026,Cyber Security Awareness Workshop,Workshop,Online,Facebook
+REG0519,2026-07-23,PYTHON PROGRAMMING,Course,Online,Direct
+REG0725,2026-08-24,data science & ml,Course,Offline,INSTAGRAM
+REG0071,2026-04-17,Data Science & ML,Course,Offline,Google
+REG0296,2026-06-08,Full Stack Web Development,Course,Offline,Direct
+REG0579,2026-08-02,Resume & Interview Workshop,Workshop,Offline,Google
+REG0837,10-09-2026,Full Stack Web Development,Course,Online,Direct
+REG0194,2026-05-17,AI & ChatGPT Workshop,Workshop,Offline,Google
+REG0316,2026-06-11,Data Science & ML,Course,Offline,Direct
+REG0516,2026-07-22,Cyber Security Awareness Workshop,Workshop,Offline,direct
+REG0144,2026-05-06,AI & ChatGPT Workshop,Workshop,Offline,facebook
+REG0173,2026-05-12,Python Programming,Course,Online ,Google
+REG0826,08/09/2026,Full Stack Web Development,Course,Online,Google
+REG0440,2026-07-08,Python Programming,Course,Online,Google
+REG0161,2026-05-09,AI & CHATGPT WORKSHOP,Workshop,Online,Instagram
+REG0371,2026-06-24,AI & ChatGPT Workshop,Workshop,online,Instagram
+REG0294,2026-06-08,Python Programming,Course,offline,Google
+REG0184,2026-05-14,Python Programming,Course,Offline,Google
+REG0638,2026-08-11,Python Programming,Course,Offline,google
+REG0273,2026-06-04,Digital Marketing,Course,Online,Instagram
+REG0075,2026-04-19,Digital Marketing,Course,Online,YouTube
+REG0201,2026-05-17,Python Programming,Course,Online ,Referral
+REG0797,2026-09-03,DIGITAL MARKETING,Course,Online,Instagram
+REG0147,2026-05-06,Digital Marketing,Course,Offline,Direct
+REG0085,2026-04-22,Digital Marketing,Course,OFFLINE,direct
+REG0775,2026-08-30,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0674,16/08/2026,Python Programming ,Course,Online,Google
+REG0397,2026-06-28,Data Science & ML,Course,Online,Instagram
+REG0596,2026-08-05,Cyber Security Awareness Workshop,Workshop,ONLINE,Instagram
+REG0143,2026-05-05,Python Programming,Course,Online,Google
+REG0280,2026-06-05,Data Science & ML,Course,Online,LinkedIn
+REG0497,2026-07-18,Cyber Security Awareness Workshop,Workshop,Offline,Facebook
+REG0448,2026-07-10,Digital Marketing,Course,Offline,Facebook
+REG0901,2026-09-21,Python Programming,Course,Offline,Google 
+REG0558,2026-07-29,Excel & Power BI Workshop,Workshop,Offline,Google
+REG0252,28/05/2026,Python Programming,Course,Online,Direct
+REG0537,2026-07-26,Full Stack Web Development,Course,Offline,Instagram
+REG0399,29/06/2026,AI & ChatGPT Workshop,Workshop,OFFLINE,Direct 
+REG0110,27/04/2026,Excel & Power BI Workshop,Workshop,Offline,YouTube
+REG0227,2026-05-21,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0789,2026-09-02,Python Programming,Course,Offline,Instagram
+REG0663,2026-08-15,Resume & Interview Workshop,Workshop,Online,instagram
+REG0777,2026-08-31,Data Science & ML,Course,Online,Google
+REG0879,2026-09-18,Python Programming,Course,Online,Instagram
+REG0129,2026-05-02,Cyber Security Awareness Workshop,Workshop,Online,Instagram
+REG0859,15-09-2026,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0724,24-08-2026,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0757,28/08/2026,Resume & Interview Workshop,Workshop,Offline,INSTAGRAM
+REG0457,2026-07-11,AI & CHATGPT WORKSHOP,Workshop,Online,Facebook
+REG0180,2026-05-13,AI & ChatGPT Workshop ,Workshop,Online,Instagram
+REG0559,2026-07-30,Digital Marketing,Course,Offline,Google
+REG0514,22/07/2026,AI & ChatGPT Workshop,Workshop,,Facebook
+REG0452,2026-07-11,Python Programming,Course,Offline,linkedin
+REG0702,2026-08-21,Data Science & ML,Course,Offline,Google
+REG0347,2026-06-17,Data Science & ML,Course,,
+REG0334,2026-06-15,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0943,28-09-2026,Data Science & ML,Course,Online,Referral
+REG0646,2026-08-13,Data Science & ML,Course,,LinkedIn
+REG0251,2026-05-27,AI & ChatGPT Workshop,Workshop,Online ,Referral
+REG0640,2026-08-11,Full Stack Web Development,Course,Offline,Instagram
+REG0233,2026-05-23,Cyber Security Awareness Workshop,Workshop,online,YouTube
+REG0769,2026-08-29,AI & ChatGPT Workshop,Workshop,Online,Referral
+REG0655,2026-08-14,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0686,2026-08-18,AI & ChatGPT Workshop,Workshop,Online,Facebook
+REG0873,2026-09-17,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0557,2026-07-29,Resume & Interview Workshop,Workshop,Online,
+REG0602,06-08-2026,Data Science & ML,Course,Online,Google
+REG0948,2026-09-29,Resume & Interview Workshop,Workshop,Online,Direct
+REG0153,2026-05-07,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0811,2026-09-05,Python Programming,Course,Offline,Google
+REG0594,2026-08-05,Data Science & ML,Course,Offline,LinkedIn
+REG0867,16/09/2026,Excel & Power BI Workshop,Workshop,ONLINE,Google
+REG0439,2026-07-08,AI & ChatGPT Workshop,Workshop,Online ,INSTAGRAM
+REG0092,24-04-2026,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0323,2026-06-13,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0506,2026-07-20,Data Science & ML,Course,offline,Direct
+REG0861,2026-09-16,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0383,2026-06-26,Full Stack Web Development,Course,offline,Instagram
+REG0750,2026-08-27,AI & ChatGPT Workshop,Workshop,Offline,Facebook
+REG0312,2026-06-11,Excel & Power BI Workshop,Workshop,Online,YouTube
+REG0063,2026-04-16,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0019,05/04/2026,AI & ChatGPT Workshop,Workshop,Online,Facebook
+REG0659,15/08/2026,Data Science & ML,Course,Offline,Instagram
+REG0258,2026-05-30,Excel & Power BI Workshop,Workshop,Online,Google
+REG0632,2026-08-10,resume & interview workshop,Workshop,Offline ,youtube
+REG0722,24-08-2026,,Workshop,Offline,Google
+REG0942,2026-09-27,Data Science & ML,Course,Online,Referral
+REG0366,2026-06-23,Data Science & ML ,Course,Offline,
+REG0023,2026-04-06,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0274,2026-06-04,excel & power bi workshop,Workshop,Online,Google
+REG0242,2026-05-25,Full Stack Web Development,Course,Offline,Google
+REG0189,2026-05-15,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0392,2026-06-28,AI & ChatGPT Workshop,Workshop,Online,Insta
+REG0717,22-08-2026,Python Programming,Course,Online ,direct
+REG0442,2026-07-08,Python Programming,Course,Offline,Instagram
+REG0525,2026-07-23,Cyber Security Awareness Workshop,Workshop,Offline,YouTube
+REG0482,15/07/2026,Full Stack Web Development,Course,Online,Referral
+REG0385,2026-06-27,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0673,2026-08-16,Data Science & ML,Course,Offline,YouTube
+REG0653,2026-08-14,Resume & Interview Workshop,Workshop,Online,YouTube
+REG0108,2026-04-27,Resume & Interview Workshop,Workshop,Online,YouTube
+REG0306,2026-06-09,AI & ChatGPT Workshop,Workshop,Online,Referral
+REG0232,2026-05-22,Python Programming,Course,Online,Google
+REG0701,2026-08-21,AI & ChatGPT Workshop,Workshop,Online ,LINKEDIN 
+REG0696,2026-08-20,Full Stack Web Development,Course,Offline,LinkedIn
+REG0695,20/08/2026,AI & ChatGPT Workshop,Workshop,online,Direct
+REG0276,04/06/2026,AI & ChatGPT Workshop,Workshop,offline,Google
+REG0446,2026-07-09,Digital Marketing,Course,Offline,Google
+REG0090,2026-04-23,Cyber Security Awareness Workshop,Workshop,Offline,Instagram
+REG0081,2026-04-21,Full Stack Web Development,Course,Online,LinkedIn
+REG0688,19/08/2026,Resume & Interview Workshop,Workshop,Online ,YouTube
+REG0954,2026-09-30,Data Science & ML,Course,Offline,FB
+REG0348,2026-06-17,Full Stack Web Development,Course,Offline,Google
+REG0031,2026-04-08,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0011,2026-04-03,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0505,2026-07-20,Excel & Power BI Workshop,Workshop,Offline,linkedin
+REG0183,2026-05-14,Digital Marketing,Course,Online,Direct
+REG0790,2026-09-02,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0864,2026-09-16,Data Science & ML,Course,Online,Referral
+REG0259,30/05/2026,,Course,Online,YouTube
+REG0372,2026-06-24,Digital Marketing,Course,Offline,Google
+REG0657,2026-08-14,Excel & Power BI Workshop,Workshop,Online,Facebook
+REG0158,08-05-2026,Full Stack Web Development,Course,Offline,Direct
+REG0471,2026-07-13,Full Stack Web Development,Course,Online,Google
+REG0328,14-06-2026,Python Programming,Course,Offline,GOOGLE
+REG0078,2026-04-20,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0730,2026-08-24,AI & ChatGPT Workshop ,Workshop,Offline,Instagram
+REG0002,01-04-2026,Digital Marketing,Course,Online,Google
+REG0907,21/09/2026,Excel & Power BI Workshop,Workshop,Offline ,Google
+REG0214,2026-05-19,python programming,Course,Online,Referral
+REG0176,13/05/2026,Excel & Power BI Workshop,Workshop,,Instagram
+REG0437,08-07-2026,Data Science & ML,Course,Offline,Linkedin
+REG0847,13/09/2026,Full Stack Web Development ,Course,Online,Instagram
+REG0772,2026-08-30,python programming,Course,Online,Google
+REG0560,2026-07-30,Excel & Power BI Workshop,Workshop,Offline,Instagram
+REG0818,2026-09-06,AI & ChatGPT Workshop,Workshop,Offline,YouTube
+REG0005,2026-04-01,Python Programming,Course,Online,Instagram
+REG0833,10/09/2026,Python Programming,Course,Online,Google
+REG0199,2026-05-17,Data Science & ML,Course,Online,INSTAGRAM
+REG0117,2026-04-30,data science & ml,Course,Offline,YouTube
+REG0205,2026-05-18,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0843,2026-09-12,,Workshop,Online,Google
+REG0175,2026-05-12,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0454,11/07/2026,AI & ChatGPT Workshop,Workshop,Online,Referral
+REG0203,2026-05-18,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0428,2026-07-06,Python Programming,Course,Offline,LinkedIn
+REG0897,20/09/2026,Excel & Power BI Workshop,Workshop,Online,Facebook
+REG0120,2026-04-30,Full Stack Web Development,Course,Offline,Google
+REG0178,2026-05-13,Full Stack Web Development,Course,Online,Referral
+REG0310,2026-06-11,AI & ChatGPT Workshop,Workshop,Offline,Direct
+REG0014,2026-04-04,Cyber Security Awareness Workshop,Workshop,Online,Instagram
+REG0249,27-05-2026,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0887,2026-09-19,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0810,2026-09-05,AI & ChatGPT Workshop,Workshop,OFFLINE,Instagram
+REG0892,2026-09-20,Digital Marketing,Course,Offline,Google
+REG0684,2026-08-18,AI & ChatGPT Workshop,Workshop,Online,Facebook
+REG0427,2026-07-05,Excel & Power BI Workshop,Workshop,Online,Google
+REG0523,2026-07-23,AI & ChatGPT Workshop,Workshop,Online,instagram
+REG0729,2026-08-24,Python Programming ,Course,Online,Facebook
+REG0621,2026-08-09,Python Programming,Course,Online,LinkedIn
+REG0130,2026-05-02,Python Programming,Course,OFFLINE,Direct
+REG0091,2026-04-23,Excel & Power BI Workshop,Workshop,Offline,YouTube
+REG0287,2026-06-06,Excel & Power BI Workshop,Workshop,Offline,Facebook
+REG0127,2026-05-02,Python Programming,Course,Offline,google
+REG0460,2026-07-12,Cyber Security Awareness Workshop,Workshop,Online,Referral
+REG0164,2026-05-10,Full Stack Web Development ,Course,Online,
+REG0112,2026-04-28,Full Stack Web Development,Course,Online,Facebook
+REG0875,2026-09-17,Full Stack Web Development ,Course,Online,LinkedIn
+REG0740,2026-08-25,Python Programming,Course,Online,Referral
+REG0932,2026-09-26,Full Stack Web Development,Course,Offline,FB
+REG0786,2026-09-01,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0735,2026-08-25,Python Programming,Course,Offline,LinkedIn
+REG0706,2026-08-21,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0313,2026-06-11,,Course,Online,Google
+REG0474,2026-07-13,Python Programming,Course,Offline,LinkedIn
+REG0073,18-04-2026,AI & ChatGPT Workshop,Workshop,Online,linkedin
+REG0003,2026-04-01,Full Stack Web Development,Course,Offline,LinkedIn
+REG0780,2026-08-31,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0380,2026-06-26,Data Science & ML ,Course,offline,LINKEDIN 
+REG0318,2026-06-12,Python Programming,Course,Offline,Instagram
+REG0013,2026-04-04,Data Science & ML,Course,Online,Instagram
+REG0341,2026-06-16,Python Programming,Course,Offline,Facebook
+REG0714,2026-08-22,Python Programming,Course,Offline,Google
+REG0668,16/08/2026,Python Programming,Course,Online,LinkedIn
+REG0400,29-06-2026,AI & ChatGPT Workshop,Workshop,ONLINE,Direct
+REG0109,27/04/2026,Python Programming,Course,Offline ,
+REG0469,2026-07-12,,Workshop,Offline,LinkedIn
+REG0339,2026-06-16,Data Science & ML,Course,Offline,Referral
+REG0182,14/05/2026,AI & ChatGPT Workshop,Workshop,Offline,LinkedIn
+REG0331,2026-06-14,Cyber Security Awareness Workshop,Workshop,Offline,Direct
+REG0923,2026-09-23,Data Science & ML,Course,Offline,YouTube
+REG0905,2026-09-21,Excel & Power BI Workshop,Workshop,Offline,Direct
+REG0309,2026-06-10,Full Stack Web Development,Course,Online,Google
+REG0922,2026-09-23,Data Science & ML,Course,Offline,LinkedIn
+REG0305,2026-06-09,Python Programming,Course,Online,Google
+REG0884,2026-09-19,,Workshop,ONLINE,YouTube
+REG0491,2026-07-16,Full Stack Web Development,Course,Offline,Facebook
+REG0043,2026-04-12,Full Stack Web Development,Course,Online,Direct
+REG0336,2026-06-15,Python Programming,Course,Offline,Google
+REG0615,2026-08-08,Data Science & ML,Course,Offline,Google
+REG0736,2026-08-25,Cyber Security Awareness Workshop,Workshop,Offline,Direct
+REG0410,2026-07-02,Python Programming,Course,,Google
+REG0749,2026-08-27,Cyber Security Awareness Workshop,Workshop,Online,Instagram
+REG0667,2026-08-15,Python Programming,Course,Online,Instagram
+REG0295,2026-06-08,Full Stack Web Development ,Course,Online,Instagram
+REG0597,05/08/2026,AI & ChatGPT Workshop,Workshop,,Google
+REG0845,2026-09-13,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0541,2026-07-26,Full Stack Web Development,Course,Offline,Direct
+REG0357,2026-06-20,Python Programming,Course,Online,Instagram
+REG0445,09-07-2026,Python Programming,Course,Online,Google
+REG0633,2026-08-10,Python Programming,Course,Offline,Google
+REG0734,25/08/2026,Digital Marketing,Course,Online ,Google
+REG0056,2026-04-15,Full Stack Web Development,Course,Offline,Instagram
+REG0764,2026-08-29,Data Science & ML,Course,Offline,LinkedIn
+REG0852,2026-09-14,data science & ml,Course,,Google
+REG0217,2026-05-20,Full Stack Web Development,Course,Offline,LinkedIn
+REG0433,2026-07-07,AI & ChatGPT Workshop ,Workshop,Offline,Google Search
+REG0041,2026-04-11,Python Programming,Course,Offline,Google
+REG0466,2026-07-12,Python Programming,Course,Offline,LinkedIn
+REG0654,14/08/2026,Digital Marketing ,Course,Online,referral
+REG0364,2026-06-22,Excel & Power BI Workshop,Workshop,Online,INSTAGRAM
+REG0838,2026-09-11,Python Programming,Course,Online,Google
+REG0179,2026-05-13,Cyber Security Awareness Workshop,Workshop,Offline,LinkedIn
+REG0177,2026-05-13,Python Programming,Course,Offline,LinkedIn
+REG0419,2026-07-03,Excel & Power BI Workshop,Workshop,Online,LinkedIn
+REG0059,2026-04-16,AI & ChatGPT Workshop,Workshop,Offline ,Google
+REG0430,2026-07-06,Full Stack Web Development,Course,online,Direct
+REG0630,10-08-2026,Cyber Security Awareness Workshop,Workshop,Online,Referral
+REG0017,2026-04-05,Python Programming,Course,Offline,Referral
+REG0788,2026-09-01,Python Programming,Course,Online,Instagram
+REG0679,18/08/2026,ai & chatgpt workshop,Workshop,Online,Google
+REG0413,2026-07-03,Python Programming,Course,Offline,Referral
+REG0666,15/08/2026,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0895,2026-09-20,Full Stack Web Development ,Course,Offline,Google
+REG0432,2026-07-07,Full Stack Web Development,Course,offline,YouTube
+REG0911,2026-09-22,Data Science & ML,Course,Offline,LinkedIn
+REG0855,2026-09-15,Digital Marketing,Course,Online,Instagram
+REG0618,2026-08-08,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0639,2026-08-11,Resume & Interview Workshop,Workshop,Online,LinkedIn
+REG0807,2026-09-05,Python Programming,Course,Online,LinkedIn
+REG0030,2026-04-08,Data Science & ML,Course,Offline,Google
+REG0930,2026-09-26,Digital Marketing,Course,Online,Instagram
+REG0375,2026-06-24,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0917,2026-09-23,Resume & Interview Workshop,Workshop,Online,Facebook
+REG0389,27/06/2026,Full Stack Web Development,Course,Offline,Referral
+REG0869,2026-09-16,Full Stack Web Development,Course,Online,Google
+REG0461,2026-07-12,,Workshop,Offline,Facebook
+REG0204,2026-05-18,Resume & Interview Workshop,Workshop,Online,Google
+REG0033,09/04/2026,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0485,2026-07-15,Python Programming,Course,Online,Google
+REG0868,2026-09-16,Full Stack Web Development,Course,Online,Instagram
+REG0157,2026-05-08,Cyber Security Awareness Workshop,Workshop,Offline,Instagram
+REG0676,2026-08-17,Cyber Security Awareness Workshop,Workshop,Online,YouTube
+REG0335,2026-06-15,AI & ChatGPT Workshop,Workshop,Online ,Instagram
+REG0513,2026-07-21,Full Stack Web Development,Course,Offline,Referral
+REG0373,2026-06-24,AI & ChatGPT Workshop,Workshop,Offline,Direct
+REG0888,2026-09-19,Python Programming,Course,Online,LinkedIn
+REG0582,2026-08-03,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0678,2026-08-18,Cyber Security Awareness Workshop,Workshop,Offline,
+REG0004,2026-04-01,Data Science & ML,Course,Offline,Instagram
+REG0686,2026-08-18,AI & ChatGPT Workshop,Workshop,Online,Facebook
+REG0131,2026-05-02,Python Programming,Course,Online,Referral
+REG0952,2026-09-29,Full Stack Web Development,Course,Offline,Google
+REG0343,2026-06-16,,Course,,Facebook
+REG0813,2026-09-06,Full Stack Web Development,Course,Offline,YOUTUBE
+REG0042,2026-04-11,python programming,Course,Online,Google
+REG0322,2026-06-13,Python Programming,Course,Online,Direct
+REG0223,2026-05-21,digital marketing,Course,ONLINE,Google
+REG0329,2026-06-14,DATA SCIENCE & ML,Course,Offline,Instagram
+REG0522,2026-07-23,Data Science & ML,Course,Online,direct
+REG0828,2026-09-08,Data Science & ML,Course,Online,
+REG0114,2026-04-29,Python Programming,Course,Offline,LinkedIn
+REG0049,2026-04-13,AI & ChatGPT Workshop,Workshop,Online,INSTAGRAM
+REG0290,07-06-2026,Cyber Security Awareness Workshop,Workshop,Online ,Google
+REG0503,19/07/2026,Python Programming,Course,Offline,Facebook
+REG0207,18/05/2026,Resume & Interview Workshop,Workshop,Online,Google
+REG0803,2026-09-04,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0420,2026-07-03,Excel & Power BI Workshop,Workshop,Online,Google
+REG0286,2026-06-06,Data Science & ML,Course,Offline,LinkedIn
+REG0744,26-08-2026,Full Stack Web Development,Course,Offline,LinkedIn
+REG0387,2026-06-27,Python Programming,Course,,linkedin
+REG0226,2026-05-21,Full Stack Web Development,Course,Offline,YouTube
+REG0568,2026-07-31,Full Stack Web Development,Course,Online,YouTube
+REG0121,2026-05-01,Full Stack Web Development,Course,Online,Direct
+REG0079,2026-04-20,AI & ChatGPT Workshop,Workshop,Offline,YouTube
+REG0862,2026-09-16,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0643,2026-08-12,Excel & Power BI Workshop,Workshop,Online,Direct
+REG0388,2026-06-27,Python Programming,Course,Online,Google
+REG0577,2026-08-02,Python Programming,Course,Online,Referral
+REG0222,2026-05-20,Digital Marketing,Course,Online,INSTAGRAM
+REG0269,2026-06-02,Data Science & ML,Course,Offline,Instagram
+REG0172,2026-05-12,AI & ChatGPT Workshop,Workshop,Online,Direct
+REG0817,2026-09-06,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0912,2026-09-22,AI & ChatGPT Workshop,Workshop,Offline,Google
+REG0664,2026-08-15,Full Stack Web Development,Course,Online,Direct
+REG0527,2026-07-24,python programming,Course,Online,Google 
+REG0456,2026-07-11,Excel & Power BI Workshop,Workshop,Online,Google
+REG0531,2026-07-25,AI & ChatGPT Workshop,Workshop,Online ,Direct 
+REG0743,26/08/2026,Excel & Power BI Workshop,Workshop,Online,Facebook
+REG0124,2026-05-01,AI & ChatGPT Workshop,Workshop,Offline,Facebook
+REG0951,2026-09-29,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0181,2026-05-13,Excel & Power BI Workshop ,Workshop,Online,Facebook
+REG0162,09/05/2026,Full Stack Web Development,Course,Offline,Google
+REG0683,2026-08-18,AI & ChatGPT Workshop,Workshop,online,Referral
+REG0622,2026-08-09,Python Programming,Course,Offline,Google
+REG0712,2026-08-22,Python Programming,Course,Offline,LinkedIn
+REG0118,2026-04-30,Data Science & ML,Course,offline,Direct
+REG0627,2026-08-10,AI & ChatGPT Workshop,Workshop,Online,Facebook
+REG0937,2026-09-27,Python Programming,Course,Online,Google
+REG0741,2026-08-25,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0891,2026-09-19,PYTHON PROGRAMMING,Course,OFFLINE,Referral
+REG0787,2026-09-01,AI & ChatGPT Workshop,Workshop,Online,Linkedin
+REG0566,2026-07-30,Cyber Security Awareness Workshop,Workshop,Online,Google
+REG0441,08-07-2026,Data Science & ML,Course,Offline,Referral
+REG0545,26/07/2026,FULL STACK WEB DEVELOPMENT,Course,Online,LinkedIn
+REG0241,25/05/2026,python programming,Course,Online,Referral
+REG0135,03-05-2026,,Course,Online,Instagram
+REG0156,2026-05-08,Python Programming,Course,Offline,Facebook
+REG0354,2026-06-20,Full Stack Web Development ,Course,Offline,Google
+REG0140,2026-05-04,Full Stack Web Development,Course,Offline,Google
+REG0908,2026-09-22,python programming,Course,Online,Google
+REG0458,2026-07-11,Excel & Power BI Workshop,Workshop,Offline,Facebook
+REG0061,2026-04-16,Resume & Interview Workshop,Workshop,,Instagram
+REG0353,2026-06-19,Data Science & ML,Course,OFFLINE,Google
+REG0580,2026-08-03,Python Programming,Course,Offline,Facebook
+REG0166,2026-05-10,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0687,2026-08-18,Digital Marketing,Course,online,Google
+REG0641,2026-08-11,Excel & Power BI Workshop,Workshop,Online,Direct
+REG0301,2026-06-08,Cyber Security Awareness Workshop,Workshop,Online,Instagram
+REG0215,2026-05-19,Excel & Power BI Workshop,Workshop,Online,Google
+REG0408,2026-06-30,ai & chatgpt workshop,Workshop,Offline,Google
+REG0796,2026-09-03,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0298,08/06/2026,resume & interview workshop,Workshop,Offline,Instagram
+REG0395,2026-06-28,AI & ChatGPT Workshop,Workshop,Offline,LinkedIn
+REG0132,2026-05-03,Digital Marketing,Course,Online,Google
+REG0315,2026-06-11,Full Stack Web Development,Course,Offline,
+REG0889,2026-09-19,Resume & Interview Workshop,Workshop,,Google
+REG0716,2026-08-22,AI & ChatGPT Workshop,Workshop,Offline ,Instagram
+REG0935,2026-09-26,Data Science & ML,Course,Online ,Google
+REG0417,2026-07-03,Data Science & ML,Course,Offline,Google
+REG0547,27/07/2026,Resume & Interview Workshop,Workshop,Online,Google
+REG0039,2026-04-10,FULL STACK WEB DEVELOPMENT,Course,Online,Direct
+REG0250,2026-05-27,Data Science & ML,Course,Offline,Direct
+REG0477,2026-07-14,Digital Marketing,Course,Offline ,Referral
+REG0403,2026-06-30,Excel & Power BI Workshop,Workshop,Offline,Referral
+REG0054,2026-04-15,Resume & Interview Workshop,Workshop,Offline,Instagram
+REG0195,2026-05-17,Python Programming,Course,Online,
+REG0137,2026-05-04,Full Stack Web Development,Course,Online,Google
+REG0870,2026-09-17,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0642,2026-08-12,Excel & Power BI Workshop,Workshop,Offline,Instagram
+REG0651,2026-08-14,Digital Marketing,Course,Offline,Facebook
+REG0282,2026-06-05,AI & ChatGPT Workshop,Workshop,Offline,YouTube
+REG0036,2026-04-10,Python Programming,Course,Offline,Google
+REG0533,2026-07-25,Digital Marketing,Course,Online,Google
+REG0601,2026-08-06,Python Programming,Course,Offline,Google
+REG0854,2026-09-15,Cyber Security Awareness Workshop,Workshop,Offline,Facebook
+REG0379,2026-06-25,Full Stack Web Development,Course,Offline,Instagram
+REG0700,2026-08-21,AI & ChatGPT Workshop,Workshop,Online,Linkedin
+REG0067,2026-04-17,Full Stack Web Development,Course,Offline,Google
+REG0553,2026-07-28,Data Science & ML,Course,Offline,
+REG0511,21/07/2026,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0520,23/07/2026,Python Programming,Course,Offline,Google
+REG0053,2026-04-15,Data Science & ML,Course,Offline,instagram
+REG0378,2026-06-25,Digital Marketing,Course,Offline,LinkedIn
+REG0691,2026-08-20,Data Science & ML,Course,Offline,
+REG0904,2026-09-21,Resume & Interview Workshop,Workshop,Online,Facebook
+REG0934,26/09/2026,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0240,2026-05-24,Resume & Interview Workshop,Workshop,Online,Google
+REG0247,2026-05-26,full stack web development,Course,Offline,Direct
+REG0916,2026-09-23,AI & ChatGPT Workshop,Workshop,Offline,Facebook
+REG0426,2026-07-05,python programming,Course,Online,Facebook
+REG0573,2026-08-01,Python Programming,Course,Online,Google
+REG0029,08-04-2026,Excel & Power BI Workshop,Workshop,Online,Google
+REG0800,2026-09-04,Digital Marketing,Course,Online,Direct
+REG0266,2026-06-02,Python Programming,Course,Online,LinkedIn
+REG0953,2026-09-30,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0840,2026-09-11,Data Science & ML,Course,Offline,LinkedIn
+REG0245,2026-05-26,AI & CHATGPT WORKSHOP,Workshop,Online,Google
+REG0104,2026-04-27,Python Programming,Course,Online,
+REG0277,2026-06-05,AI & ChatGPT Workshop,Workshop,Offline ,LinkedIn
+REG0394,2026-06-28,Full Stack Web Development,Course,Offline,Google
+REG0111,28-04-2026,Python Programming,Course,Online,Google
+REG0077,2026-04-19,Full Stack Web Development,Course,Online,Google
+REG0160,2026-05-09,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0459,2026-07-12,Resume & Interview Workshop,Workshop,Online,Direct
+REG0236,2026-05-23,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0465,2026-07-12,Python Programming,Course,Online,Google
+REG0412,2026-07-02,,Workshop,ONLINE,Youtube
+REG0835,2026-09-10,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0113,2026-04-29,Full Stack Web Development,Course,Offline,YouTube
+REG0661,2026-08-15,Excel & Power BI Workshop,Workshop,Offline,Google
+REG0841,2026-09-11,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0550,2026-07-28,Full Stack Web Development,Course,Offline,Google
+REG0689,2026-08-19,Python Programming,Course,Online,Google
+REG0330,14-06-2026,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0263,2026-06-01,Resume & Interview Workshop,Workshop,Online,
+REG0745,2026-08-26,Data Science & ML,Course,Online,Direct
+REG0634,2026-08-10,RESUME & INTERVIEW WORKSHOP,Workshop,Online,Direct
+REG0168,2026-05-10,AI & ChatGPT Workshop,Workshop,Offline,Facebook
+REG0816,06/09/2026,Digital Marketing,Course,Offline,Direct 
+REG0155,2026-05-08,Full Stack Web Development,Course,Online,
+REG0924,2026-09-24,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0025,2026-04-07,full stack web development,Course,Offline,LinkedIn
+REG0444,2026-07-09,Python Programming,Course,Online,Google Search
+REG0151,2026-05-07,Python Programming,Course,Offline,Google
+REG0095,2026-04-24,Full Stack Web Development,Course,Offline,Direct
+REG0218,2026-05-20,AI & ChatGPT Workshop,Workshop,Offline,Facebook
+REG0382,2026-06-26,full stack web development,Course,Offline,Direct
+REG0024,2026-04-06,Data Science & ML,Course,Online,Google
+REG0293,2026-06-07,Full Stack Web Development,Course,Offline,Google
+REG0174,2026-05-12,Full Stack Web Development,Course,Offline,Referral
+REG0101,2026-04-26,Data Science & ML,Course,,Direct
+REG0026,2026-04-07,Resume & Interview Workshop,Workshop,Online,LinkedIn
+REG0733,25/08/2026,Resume & Interview Workshop,Workshop,Online,
+REG0617,2026-08-08,Full Stack Web Development,Course,Online,Google
+REG0490,2026-07-16,Data Science & ML ,Course,Online,LinkedIn
+REG0572,2026-07-31,Data Science & ML,Course,Offline,Direct 
+REG0355,2026-06-20,AI & ChatGPT Workshop,Workshop,Online,direct
+REG0625,2026-08-10,Data Science & ML,Course,online,direct
+REG0243,2026-05-25,Python Programming,Course,Offline,Google
+REG0590,2026-08-04,Full Stack Web Development,Course,Offline,Google
+REG0074,2026-04-18,Full Stack Web Development,Course,Offline,Google
+REG0947,2026-09-29,Python Programming,Course,Offline,Google
+REG0119,2026-04-30,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0115,2026-04-29,Data Science & ML,Course,Offline,LinkedIn
+REG0521,2026-07-23,Data Science & ML,Course,Offline,Facebook
+REG0006,2026-04-02,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0476,2026-07-14,PYTHON PROGRAMMING,Course,Offline,LinkedIn
+REG0858,15/09/2026,Excel & Power BI Workshop,Workshop,Online,Direct
+REG0569,2026-07-31,Python Programming,Course,Offline,Direct
+REG0070,2026-04-17,Full Stack Web Development,Course,Online,LinkedIn
+REG0015,2026-04-05,Full Stack Web Development,Course,online,Direct
+REG0798,2026-09-04,Cyber Security Awareness Workshop,Workshop,Online,Instagram
+REG0600,2026-08-06,Full Stack Web Development,Course,OFFLINE,LinkedIn
+REG0370,2026-06-24,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0079,2026-04-20,AI & ChatGPT Workshop,Workshop,Offline,YouTube
+REG0480,2026-07-14,Full Stack Web Development,Course,Offline,Instagram
+REG0703,2026-08-21,Python Programming,Course,Online,Google
+REG0055,2026-04-15,Excel & Power BI Workshop,Workshop,Online,Facebook
+REG0468,2026-07-12,AI & ChatGPT Workshop,Workshop,Online ,Google
+REG0267,2026-06-02,Python Programming,Course,Offline,Google
+REG0900,21-09-2026,AI & ChatGPT Workshop,Workshop,Offline,instagram
+REG0515,2026-07-22,Cyber Security Awareness Workshop,Workshop,Online,Facebook
+REG0538,2026-07-26,AI & ChatGPT Workshop,Workshop,,LinkedIn
+REG0850,2026-09-14,Digital Marketing,Course,Offline,Instagram
+REG0504,2026-07-20,Digital Marketing,Course,Offline,LinkedIn
+REG0448,2026-07-10,Digital Marketing,Course,Offline,Facebook
+REG0167,2026-05-10,data science & ml,Course,Offline,Direct
+REG0670,16/08/2026,Full Stack Web Development,Course,Offline,Referral
+REG0332,2026-06-14,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0699,2026-08-21,Full Stack Web Development,Course,Offline,Google
+REG0248,2026-05-27,Python Programming,Course,,Instagram
+REG0374,24/06/2026,Data Science & ML,Course,Offline,Instagram
+REG0732,2026-08-24,Data Science & ML ,Course,online,GOOGLE
+REG0473,13/07/2026,Cyber Security Awareness Workshop,Workshop,Offline,Direct
+REG0500,2026-07-18,Digital Marketing,Course,Online,Google
+REG0619,2026-08-08,Cyber Security Awareness Workshop,Workshop,Online,Google
+REG0590,2026-08-04,Full Stack Web Development,Course,Offline,Google
+REG0564,2026-07-30,Full Stack Web Development,Course,online,LinkedIn
+REG0783,2026-08-31,Resume & Interview Workshop,Workshop,online,Instagram
+REG0308,2026-06-10,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0771,2026-08-30,,Course,Offline,Google
+REG0720,2026-08-23,Python Programming,Course,Online,LinkedIn
+REG0567,2026-07-31,Resume & Interview Workshop,Workshop,Online,Google
+REG0502,2026-07-19,AI & ChatGPT Workshop,Workshop,offline,Google
+REG0235,23/05/2026,Digital Marketing,Course,Offline,GOOGLE
+REG0697,2026-08-20,Data Science & ML,Course,Offline,GOOGLE
+REG0431,2026-07-07,Full Stack Web Development,Course,Offline,Instagram
+REG0665,2026-08-15,Python Programming,Course,Online,Google
+REG0192,2026-05-16,AI & ChatGPT Workshop,Workshop,Offline,Google
+REG0152,2026-05-07,AI & ChatGPT Workshop,Workshop,Online,Facebook
+REG0436,2026-07-08,AI & ChatGPT Workshop,Workshop,Online,Referral
+REG0257,2026-05-30,Excel & Power BI Workshop,Workshop,Online,Google
+REG0799,2026-09-04,Digital Marketing,Course,offline,Google
+REG0647,2026-08-13,Data Science & ML,Course,OFFLINE,Instagram
+REG0756,2026-08-28,Python Programming,Course,Online,Google
+REG0542,2026-07-26,,Workshop,Online,Google
+REG0570,2026-07-31,Python Programming,Course,Offline,Facebook
+REG0583,2026-08-03,AI & ChatGPT Workshop,Workshop,Online,Facebook
+REG0384,27-06-2026,Excel & Power BI Workshop,Workshop,Online,Google
+REG0146,2026-05-06,Digital Marketing,Course,Offline,Instagram
+REG0782,2026-08-31,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0863,2026-09-16,Excel & Power BI Workshop,Workshop,Offline,Instagram
+REG0534,2026-07-25,Data Science & ML,Course,Offline,Google
+REG0216,2026-05-20,CYBER SECURITY AWARENESS WORKSHOP,Workshop,Online,Facebook
+REG0739,25/08/2026,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0878,2026-09-18,Python Programming,Course,Online,GOOGLE
+REG0645,2026-08-13,Data Science & ML,Course,Offline,Facebook
+REG0197,2026-05-17,Python Programming,Course,Online,YouTube
+REG0865,2026-09-16,Python Programming,Course,Online,instagram
+REG0496,2026-07-18,Data Science & ML,Course,Offline,
+REG0592,2026-08-04,Python Programming,Course,ONLINE,Referral
+REG0018,2026-04-05,PYTHON PROGRAMMING,Course,,YouTube
+REG0754,2026-08-28,Full Stack Web Development,Course,online,Instagram
+REG0028,2026-04-07,Digital Marketing,Course,Online,direct
+REG0278,2026-06-05,Full Stack Web Development,Course,Offline,LinkedIn
+REG0396,2026-06-28,PYTHON PROGRAMMING,Course,Online,Google
+REG0229,2026-05-22,Data Science & ML,Course,Online,Referral
+REG0321,2026-06-13,Digital Marketing,Course,Offline,Google
+REG0148,2026-05-06,,Workshop,Offline,Instagram
+REG0925,24-09-2026,AI & ChatGPT Workshop,Workshop,Offline,LinkedIn
+REG0495,2026-07-18,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0599,2026-08-06,Cyber Security Awareness Workshop,Workshop,Online,Google
+REG0450,2026-07-10,Digital Marketing,Course,Online,LinkedIn
+REG0692,20/08/2026,Digital Marketing ,Course,Online,Referral
+REG0107,2026-04-27,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0351,2026-06-18,Python Programming,Course,Offline,Direct
+REG0524,2026-07-23,excel & power bi workshop,Workshop,Online,Facebook
+REG0390,2026-06-27,Digital Marketing,Course,Offline,Google
+REG0449,2026-07-10,Full Stack Web Development,Course,Offline,Direct
+REG0094,2026-04-24,AI & ChatGPT Workshop,Workshop,Online,Direct
+REG0260,2026-05-31,Cyber Security Awareness Workshop,Workshop,Offline,Facebook
+REG0555,2026-07-29,AI & ChatGPT Workshop,Workshop,Offline,Direct
+REG0866,2026-09-16,Python Programming,Course,Online,LINKEDIN 
+REG0171,12-05-2026,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0255,2026-05-29,Digital Marketing,Course,Offline,Google
+REG0603,2026-08-06,Excel & Power BI Workshop,Workshop,Online ,Google
+REG0253,28-05-2026,AI & ChatGPT Workshop,Workshop,Offline,Direct
+REG0307,2026-06-10,data science & ml,Course,Offline,GOOGLE
+REG0548,2026-07-27,Data Science & ML,Course,Offline,FB
+REG0774,2026-08-30,Resume & Interview Workshop,Workshop,Offline,LinkedIn
+REG0928,2026-09-25,Python Programming,Course,Online,Google
+REG0429,2026-07-06,Python Programming,Course,Online,Google
+REG0187,2026-05-15,,Course,Offline,Google
+REG0270,2026-06-02,python programming,Course,Online ,Google
+REG0631,10/08/2026,Excel & Power BI Workshop,Workshop,Online,LinkedIn
+REG0163,2026-05-10,Full Stack Web Development,Course,Online,Direct
+REG0414,2026-07-03,Data Science & ML,Course,Offline,Google
+REG0842,12/09/2026,Data Science & ML,Course,Online,Google
+REG0890,2026-09-19,Resume & Interview Workshop,Workshop,Online,Google
+REG0099,2026-04-25,Digital Marketing,Course,Offline,LinkedIn
+REG0007,2026-04-02,Python Programming,Course,Offline,LinkedIn
+REG0779,2026-08-31,Python Programming,Course,Offline,Google
+REG0830,2026-09-09,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0612,2026-08-08,Full Stack Web Development,Course,Offline,Direct
+REG0230,2026-05-22,Python Programming ,Course,Offline ,google
+REG0265,01-06-2026,Resume & Interview Workshop,Workshop,Offline,YouTube
+REG0369,24/06/2026,Python Programming,Course,Online,Google
+REG0036,2026-04-10,Python Programming,Course,Offline,Google
+REG0883,19/09/2026,ai & chatgpt workshop,Workshop,Online,Instagram
+REG0823,2026-09-07,Resume & Interview Workshop,Workshop,Offline,Google
+REG0902,21/09/2026,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0404,2026-06-30,Digital Marketing,Course,Offline,Direct
+REG0708,2026-08-21,Python Programming,Course,ONLINE,referral
+REG0611,2026-08-07,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0190,2026-05-16,Data Science & ML,Course,Offline,Google
+REG0333,2026-06-15,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0304,2026-06-09,AI & ChatGPT Workshop ,Workshop,Online,LinkedIn
+REG0261,2026-05-31,AI & ChatGPT Workshop,Workshop,Online,instagram
+REG0145,2026-05-06,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0628,2026-08-10,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0284,2026-06-06,Python Programming,Course,OFFLINE,Google
+REG0831,09/09/2026,Cyber Security Awareness Workshop,Workshop,Online,Facebook 
+REG0012,04/04/2026,Cyber Security Awareness Workshop,Workshop,Online,Google
+REG0792,2026-09-02,Full Stack Web Development,Course,Online,LinkedIn
+REG0595,2026-08-05,RESUME & INTERVIEW WORKSHOP,Workshop,Offline,LinkedIn
+REG0532,25/07/2026,data science & ml,Course,Online,Google
+REG0470,2026-07-13,Data Science & ML,Course,Offline,Google
+REG0128,2026-05-02,Python Programming,Course,Offline ,Referal
+REG0713,2026-08-22,Cyber Security Awareness Workshop,Workshop,Online,Facebook
+REG0058,16-04-2026,Resume & Interview Workshop,Workshop,OFFLINE,Referral
+REG0034,09/04/2026,Python Programming,Course,Offline,Google
+REG0238,2026-05-24,AI & ChatGPT Workshop,Workshop,online,Instagram
+REG0898,2026-09-21,python programming,Course,Online,Google
+REG0283,2026-06-06,Full Stack Web Development,Course,Offline,Direct
+REG0587,04/08/2026,Excel & Power BI Workshop,Workshop,Offline,Google
+REG0363,2026-06-22,Python Programming,Course,Offline,Instagram
+REG0244,2026-05-26,Resume & Interview Workshop,Workshop,Online,Insta
+REG0604,2026-08-06,AI & ChatGPT Workshop,Workshop,Offline,Google
+REG0093,24-04-2026,AI & ChatGPT Workshop,Workshop,Offline,LinkedIn
+REG0211,2026-05-19,Python Programming,Course,Online,Instagram
+REG0338,2026-06-15,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0707,21/08/2026,AI & ChatGPT Workshop,Workshop,,Instagram
+REG0669,2026-08-16,Python Programming,Course,Offline,instagram
+REG0302,09/06/2026,Full Stack Web Development,Course,Offline,LinkedIn
+REG0086,2026-04-22,Full Stack Web Development,Course,Offline,Direct
+REG0191,2026-05-16,Resume & Interview Workshop ,Workshop,Online,LINKEDIN 
+REG0040,2026-04-11,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0501,2026-07-19,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0624,09/08/2026,Data Science & ML,Course,Online,Google
+REG0508,2026-07-21,Full Stack Web Development,Course,Offline,LinkedIn
+REG0635,2026-08-11,Digital Marketing,Course,,Instagram
+REG0517,23/07/2026,Data Science & ML,Course,Offline ,Facebook
+REG0105,2026-04-27,Python Programming,Course,Offline,Direct
+REG0784,2026-08-31,Data Science & ML,Course,Online,LinkedIn
+REG0234,2026-05-23,Excel & Power BI Workshop,Workshop,Online,LinkedIn
+REG0677,2026-08-17,Full Stack Web Development,Course,Online,Instagram
+REG0106,2026-04-27,Python Programming,Course,Offline,Instagram
+REG0342,16/06/2026,Full Stack Web Development,Course,Online,Google
+REG0903,2026-09-21,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0254,2026-05-28,Digital Marketing,Course,,linkedin
+REG0409,2026-07-01,Full Stack Web Development,Course,Online,Google
+REG0423,2026-07-04,Full Stack Web Development,Course,Offline,YouTube
+REG0209,2026-05-19,Cyber Security Awareness Workshop,Workshop,Offline,Referral
+REG0955,2026-09-30,Full Stack Web Development,Course,Online,Google
+REG0748,2026-08-27,Python Programming,Course,Online,Direct
+REG0083,21/04/2026,Full Stack Web Development,Course,Offline,Referral
+REG0498,2026-07-18,Full Stack Web Development,Course,Online,Google
+REG0896,2026-09-20,Data Science & ML,Course,Offline,LinkedIn
+REG0584,2026-08-03,Excel & Power BI Workshop,Workshop,Offline,LinkedIn
+REG0758,2026-08-28,Resume & Interview Workshop,Workshop,Online ,Instagram
+REG0088,2026-04-23,Full Stack Web Development,Course,Offline,Google
+REG0065,2026-04-16,Python Programming ,Course,Online,LinkedIn
+REG0271,2026-06-02,Full Stack Web Development,Course,Online,Facebook
+REG0606,2026-08-07,Data Science & ML,Course,Offline,Google
+REG0275,04/06/2026,AI & ChatGPT Workshop,Workshop,ONLINE,YouTube
+REG0564,2026-07-30,Full Stack Web Development,Course,online,LinkedIn
+REG0848,2026-09-13,Data Science & ML,Course,Offline,Google
+REG0849,2026-09-14,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0871,2026-09-17,Data Science & ML ,Course,Online,Referral
+REG0154,2026-05-07,AI & ChatGPT Workshop,Workshop,Offline,YouTube
+REG0614,2026-08-08,Data Science & ML,Course,Offline,Google
+REG0909,2026-09-22,Cyber Security Awareness Workshop,Workshop,Online,Google
+REG0411,2026-07-02,Python Programming,Course,Offline,Facebook
+REG0804,2026-09-04,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0518,2026-07-23,Full Stack Web Development,Course,Offline,LinkedIn
+REG0045,12-04-2026,Digital Marketing,Course,Online ,YouTube
+REG0626,2026-08-10,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0391,2026-06-28,Resume & Interview Workshop,Workshop,Online,Google
+REG0221,20-05-2026,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0141,2026-05-05,Excel & Power BI Workshop,Workshop,Online,Direct
+REG0350,2026-06-17,Excel & Power BI Workshop,Workshop,Offline,Referral
+REG0358,2026-06-21,Excel & Power BI Workshop,Workshop,Offline,Google
+REG0723,2026-08-24,Full Stack Web Development,Course,Offline,LinkedIn
+REG0134,2026-05-03,Data Science & ML,Course,Offline,Google
+REG0262,31/05/2026,Digital Marketing,Course,Offline ,Direct
+REG0279,2026-06-05,Full Stack Web Development,Course,,YouTube
+REG0080,2026-04-20,Digital Marketing,Course,Online,Google
+REG0950,2026-09-29,Excel & Power BI Workshop,Workshop,Offline,Instagram
+REG0116,30/04/2026,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0794,2026-09-03,RESUME & INTERVIEW WORKSHOP,Workshop,Online,Google
+REG0814,2026-09-06,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0719,2026-08-23,AI & ChatGPT Workshop,Workshop,Online,facebook
+REG0381,2026-06-26,Python Programming,Course,Offline,Google
+REG0910,22-09-2026,Digital Marketing,Course,Online,YouTube
+REG0185,2026-05-15,AI & ChatGPT Workshop ,Workshop,Online,Referral
+REG0836,2026-09-10,Data Science & ML,Course,Offline,LinkedIn
+REG0359,2026-06-21,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0037,10/04/2026,AI & ChatGPT Workshop ,Workshop,Online,Instagram
+REG0340,2026-06-16,Python Programming,Course,Offline,Referral
+REG0815,2026-09-06,Data Science & ML,Course,Offline,Google
+REG0755,2026-08-28,Excel & Power BI Workshop,Workshop,Online,Facebook
+REG0421,2026-07-04,DATA SCIENCE & ML,Course,Offline,Google
+REG0150,2026-05-07,Python Programming,Course,Online,Google
+REG0010,2026-04-02,Digital Marketing,Course,Online,LinkedIn
+REG0046,2026-04-12,Excel & Power BI Workshop,Workshop,Online,Direct
+REG0096,2026-04-25,Python Programming,Course,Online,Instagram
+REG0880,2026-09-18,,Course,Offline,Facebook
+REG0792,2026-09-02,Full Stack Web Development,Course,Online,LinkedIn
+REG0549,2026-07-27,Excel & Power BI Workshop,Workshop,Online ,YOUTUBE
+REG0561,30/07/2026,AI & ChatGPT Workshop,Workshop,Online,Referral
+REG0299,2026-06-08,Cyber Security Awareness Workshop,Workshop,online,Instagram
+REG0291,2026-06-07,AI & ChatGPT Workshop,Workshop,Online,
+REG0416,03-07-2026,Python Programming,Course,Offline,Google
+REG0314,2026-06-11,Data Science & ML,Course,Online,Google Search
+REG0422,2026-07-04,Excel & Power BI Workshop,Workshop,Offline,Instagram
+REG0658,2026-08-15,Python Programming,Course,Offline,LinkedIn
+REG0123,2026-05-01,DIGITAL MARKETING,Course,Offline,LinkedIn
+REG0819,06-09-2026,Python Programming,Course,Offline,INSTAGRAM
+REG0795,2026-09-03,Digital Marketing,Course,Online,Google
+REG0362,2026-06-22,Python Programming,Course,Online,LinkedIn
+REG0337,2026-06-15,Data Science & ML,Course,Online,Youtube
+REG0136,2026-05-03,Python Programming,Course,Online,Google
+REG0827,2026-09-08,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0710,22/08/2026,AI & ChatGPT Workshop,Workshop,Offline,Facebook
+REG0770,2026-08-30,,Workshop,Online,Instagram
+REG0652,2026-08-14,Full Stack Web Development,Course,Online,Facebook
+REG0368,2026-06-23,Python Programming,Course,Offline,Direct
+REG0936,2026-09-26,Digital Marketing,Course,Online,Direct
+REG0882,18-09-2026,Excel & Power BI Workshop,Workshop,Offline,Google
+REG0620,2026-08-09,Data Science & ML,Course,Online,
+REG0009,2026-04-02,Python Programming,Course,OFFLINE,Referral
+REG0098,2026-04-25,Python Programming,Course,Online,LinkedIn
+REG0945,2026-09-28,Cyber Security Awareness Workshop,Workshop,Offline,YouTube
+REG0349,2026-06-17,Excel & Power BI Workshop,Workshop,Offline,Google
+REG0510,2026-07-21,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0931,2026-09-26,Python Programming,Course,Online,Instagram
+REG0704,2026-08-21,AI & ChatGPT Workshop,Workshop,Offline,YouTube
+REG0747,26-08-2026,,Workshop,Online,Referral
+REG0022,2026-04-06,AI & ChatGPT Workshop,Workshop,Offline,Direct
+REG0483,2026-07-15,Data Science & ML,Course,Offline,referral
+REG0941,2026-09-27,Data Science & ML,Course,Offline,Referral
+REG0406,30/06/2026,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0785,2026-09-01,Full Stack Web Development,Course,Offline,
+REG0894,20-09-2026,,Workshop,Online,Google
+REG0870,2026-09-17,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0825,2026-09-08,Full Stack Web Development,Course,Online ,Google
+REG0479,2026-07-14,,Course,Online,Google
+REG0591,2026-08-04,Python Programming,Course,Offline,Referral
+REG0492,17/07/2026,Cyber Security Awareness Workshop,Workshop,Online,LinkedIn
+REG0047,2026-04-12,AI & ChatGPT Workshop,Workshop,Offline,Direct
+REG0365,2026-06-22,Digital Marketing,Course,Online,LinkedIn
+REG0297,2026-06-08,Full Stack Web Development ,Course,Online,Google
+REG0050,2026-04-14,Data Science & ML,Course,Offline ,Direct
+REG0488,2026-07-16,Excel & Power BI Workshop,Workshop,Offline,Instagram
+REG0225,2026-05-21,Digital Marketing,Course,Offline,Instagram
+REG0751,2026-08-27,Cyber Security Awareness Workshop ,Workshop,Online ,Youtube
+REG0220,2026-05-20,Data Science & ML,Course,Online,Facebook
+REG0920,23/09/2026,Excel & Power BI Workshop,Workshop,offline,Direct
+REG0762,2026-08-29,AI & ChatGPT Workshop,Workshop,OFFLINE,
+REG0797,2026-09-03,DIGITAL MARKETING,Course,Online,Instagram
+REG0648,2026-08-13,AI & ChatGPT Workshop ,Workshop,Offline,Instagram
+REG0202,2026-05-18,Resume & Interview Workshop,Workshop,Offline,Instagram
+REG0563,2026-07-30,Cyber Security Awareness Workshop,Workshop,Online,YouTube
+REG0623,2026-08-09,Data Science & ML,Course,Offline,Google
+REG0835,2026-09-10,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0064,2026-04-16,Excel & Power BI Workshop,Workshop,Offline,Referral
+REG0805,2026-09-04,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0605,07-08-2026,Excel & Power BI Workshop,Workshop,,Instagram
+REG0246,2026-05-26,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0443,2026-07-09,AI & ChatGPT Workshop,Workshop,Offline,YOUTUBE
+REG0853,2026-09-14,AI & ChatGPT Workshop,Workshop,Online,
+REG0575,2026-08-02,Excel & Power BI Workshop,Workshop,Online,YouTube
+REG0001,2026-04-01,Full Stack Web Development,Course,Offline,Google
+REG0540,2026-07-26,Data Science & ML,Course,Online,Google
+REG0768,2026-08-29,Full Stack Web Development,Course,Online,LINKEDIN 
+REG0763,2026-08-29,AI & CHATGPT WORKSHOP,Workshop,Online,Facebook
+REG0690,2026-08-19,excel & power bi workshop,Workshop,Online,Instagram
+REG0188,2026-05-15,Python Programming,Course,Offline,
+REG0407,2026-06-30,Data Science & ML ,Course,Online,Google 
+REG0149,2026-05-06,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0752,2026-08-28,Cyber Security Awareness Workshop,Workshop,Online,YouTube
+REG0416,03-07-2026,Python Programming,Course,Offline,Google
+REG0918,23-09-2026,Data Science & ML ,Course,offline,Direct
+REG0027,07/04/2026,Python Programming ,Course,Offline,Google
+REG0462,2026-07-12,Excel & Power BI Workshop,Workshop,,Instagram
+REG0671,2026-08-16,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0656,14-08-2026,Python Programming,Course,offline,Google
+REG0786,2026-09-01,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0060,2026-04-16,Full Stack Web Development,Course,Online,YouTube
+REG0715,2026-08-22,Cyber Security Awareness Workshop,Workshop,Offline,LinkedIn
+REG0327,2026-06-14,Python Programming,Course,Offline,Google
+REG0425,05-07-2026,Digital Marketing,Course,Online,Referral
+REG0721,2026-08-23,Digital Marketing,Course,Offline,Instagram
+REG0478,2026-07-14,Python Programming,Course,Offline,Google
+REG0044,2026-04-12,Python Programming,Course,Online,Google
+REG0662,2026-08-15,AI & ChatGPT Workshop,Workshop,Offline,Referral
+REG0636,2026-08-11,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0824,2026-09-08,Data Science & ML,Course,Offline,Direct
+REG0529,2026-07-24,AI & ChatGPT Workshop,Workshop,,Instagram
+REG0737,25/08/2026,Data Science & ML,Course,Offline,Google
+REG0484,2026-07-15,Data Science & ML,Course,offline,Instagram
+REG0219,2026-05-20,Data Science & ML,Course,Offline,
+REG0742,26-08-2026,Excel & Power BI Workshop,Workshop,Offline,LINKEDIN 
+REG0821,2026-09-07,,Course,Offline,Direct
+REG0105,2026-04-27,Python Programming,Course,Offline,Direct
+REG0856,2026-09-15,Full Stack Web Development,Course,Online,Facebook
+REG0899,2026-09-21,Data Science & ML,Course,Online,LinkedIn
+REG0610,07/08/2026,,Workshop,Online,Google
+REG0486,2026-07-15,Data Science & ML,Course,Online,Direct
+REG0126,01-05-2026,AI & ChatGPT Workshop,Workshop,Online,Referral
+REG0881,2026-09-18,Cyber Security Awareness Workshop,Workshop,Online,
+REG0062,16-04-2026,AI & ChatGPT Workshop,Workshop,Offline,LinkedIn
+REG0082,2026-04-21,Resume & Interview Workshop,Workshop,Online,FB
+REG0681,18/08/2026,Full Stack Web Development,Course,Offline,Instagram
+REG0325,2026-06-13,Excel & Power BI Workshop,Workshop,Offline,Instagram
+REG0386,2026-06-27,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0192,2026-05-16,AI & ChatGPT Workshop,Workshop,Offline,Google
+REG0057,16/04/2026,,Course,Offline,Instagram
+REG0020,05/04/2026,Digital Marketing,Course,Offline,LinkedIn
+REG0933,2026-09-26,Excel & Power BI Workshop,Workshop,Online,Direct
+REG0087,2026-04-23,Python Programming,Course,Online,Instagram
+REG0839,2026-09-11,AI & ChatGPT Workshop,Workshop,Online,YouTube
+REG0759,29/08/2026,Cyber Security Awareness Workshop,Workshop,Offline,Instagram
+REG0650,2026-08-14,AI & ChatGPT Workshop,Workshop,Offline,Referral
+REG0317,2026-06-12,Cyber Security Awareness Workshop,Workshop,Online,Direct
+REG0035,2026-04-09,Full Stack Web Development,Course,,Google
+REG0809,2026-09-05,Python Programming,Course,Online,Google
+REG0139,2026-05-04,Python Programming,Course,Offline,Direct
+REG0767,2026-08-29,Digital Marketing,Course,Online,Instagram
+REG0589,04-08-2026,AI & ChatGPT Workshop,Workshop,Online,Google
+REG0499,2026-07-18,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0539,2026-07-26,Full Stack Web Development,Course,Offline,Google
+REG0801,2026-09-04,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0556,2026-07-29,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0097,2026-04-25,Python Programming,Course,,linkedin
+REG0084,2026-04-22,AI & ChatGPT Workshop,Workshop,Offline,Direct
+REG0447,2026-07-10,Full Stack Web Development,Course,,LinkedIn
+REG0475,2026-07-13,Python Programming,Course,Online,LinkedIn
+REG0765,2026-08-29,Excel & Power BI Workshop,Workshop,Online,Google
+REG0367,2026-06-23,Resume & Interview Workshop,Workshop,Offline,Facebook
+REG0874,17/09/2026,AI & ChatGPT Workshop ,Workshop,Online,Instagram
+REG0698,2026-08-20,Excel & Power BI Workshop,Workshop,Online,Instagram
+REG0586,2026-08-04,Digital Marketing,Course,Online,Instagram
+REG0886,2026-09-19,Cyber Security Awareness Workshop,Workshop,Online,LinkedIn
+REG0914,2026-09-22,AI & ChatGPT Workshop,Workshop,Offline,Google
+REG0761,29/08/2026,AI & ChatGPT Workshop,Workshop,Online,Direct
+REG0402,2026-06-30,Python Programming,Course,Offline,Referral
+REG0760,2026-08-29,Excel & Power BI Workshop,Workshop,Online,Facebook
+REG0393,2026-06-28,Python Programming,Course,Online,Google
+REG0915,2026-09-22,Digital Marketing,Course,Online,Google
+REG0746,2026-08-26,Excel & Power BI Workshop,Workshop,Offline,Direct 
+REG0272,03/06/2026,AI & ChatGPT Workshop,Workshop,Offline,Instagram
+REG0507,2026-07-21,Python Programming,Course,Online ,LinkedIn
+REG0102,2026-04-26,Excel & Power BI Workshop,Workshop,Offline,Facebook
+REG0435,2026-07-07,Resume & Interview Workshop,Workshop,Online,Instagram
+REG0649,2026-08-13,AI & CHATGPT WORKSHOP,Workshop,Online,Google
+REG0808,05/09/2026,Cyber Security Awareness Workshop,Workshop,online,Instagram
+REG0562,2026-07-30,Full Stack Web Development,Course,Offline ,LinkedIn
+REG0208,18/05/2026,Python Programming,Course,Offline,Direct
+REG0320,2026-06-13,AI & ChatGPT Workshop,Workshop,Online,Direct
+REG0242,2026-05-25,Full Stack Web Development,Course,Offline,Google
+REG0133,2026-05-03,Full Stack Web Development,Course,Offline,Facebook
+REG0051,14-04-2026,Excel & Power BI Workshop,Workshop,Offline,Instagram
+REG0239,2026-05-24,Excel & Power BI Workshop,Workshop,Online,LinkedIn
+REG0565,2026-07-30,Resume & Interview Workshop,Workshop,Offline,LinkedIn
+REG0593,2026-08-05,Excel & Power BI Workshop,Workshop,,Google
+REG0451,11-07-2026,,Course,Online,Google
+REG0032,2026-04-08,Digital Marketing,Course,Online,Instagram
+REG0122,2026-05-01,AI & ChatGPT Workshop,Workshop,Online,Instagram
+REG0212,2026-05-19,Digital Marketing,Course,Online,Facebook
+REG0352,2026-06-18,Python Programming,Course,OFFLINE,INSTAGRAM
+REG0455,2026-07-11,Data Science & ML,Course,Online,Facebook
+REG0303,09/06/2026,Excel & Power BI Workshop,Workshop,Online,google
+REG0709,2026-08-22,Excel & Power BI Workshop,Workshop,Offline,Google
+REG0089,2026-04-23,Python Programming,Course,Online,Instagram
+REG0326,2026-06-13,Python Programming,Course,Offline,Google Search
+REG0324,2026-06-13,AI & ChatGPT Workshop,Workshop,Offline,Facebook
+REG0256,2026-05-29,Excel & Power BI Workshop,Workshop,Offline,LinkedIn
+REG0893,2026-09-20,python programming,Course,Online,Google
+REG0571,2026-07-31,Digital Marketing,Course,Offline,Google
+REG0546,2026-07-27,AI & ChatGPT Workshop,Workshop,Online,LinkedIn
+REG0551,2026-07-28,Python Programming,Course,Online,YouTube
+REG0360,2026-06-21,Digital Marketing,Course,Online,LinkedIn
+REG0052,2026-04-14,PYTHON PROGRAMMING,Course,Offline,FB
+REG0876,2026-09-17,AI & ChatGPT Workshop,Workshop,Offline,Google
+REG0939,2026-09-27,Data Science & ML,Course,Offline,YouTube
+REG0773,2026-08-30,Excel & Power BI Workshop,Workshop,Online,Referal
+REG0103,2026-04-26,Cyber Security Awareness Workshop,Workshop,Offline,Instagram
+REG0196,2026-05-17,Excel & Power BI Workshop,Workshop,Online,Google
+REG0680,2026-08-18,Full Stack Web Development,Course,Online,LinkedIn
+REG0806,2026-09-04,,Workshop,Online,LinkedIn
+REG0629,2026-08-10,AI & ChatGPT Workshop,Workshop,Offline,LinkedIn
+REG0125,2026-05-01,Python Programming,Course,Online,Facebook
+REG0405,2026-06-30,Excel & Power BI Workshop,Workshop,Online,Facebook
+REG0731,2026-08-24,Excel & Power BI Workshop,Workshop,Online,Google
+REG0288,07/06/2026,Python Programming,Course,Online,LinkedIn
+REG0832,2026-09-10,CYBER SECURITY AWARENESS WORKSHOP,Workshop,Offline,Google
+REG0048,13/04/2026,Data Science & ML,Course,Online,YouTube
+REG0726,24-08-2026,Python Programming,Course,Offline,LinkedIn
+REG0588,2026-08-04,Python Programming,Course,Online,Facebook
+REG0608,2026-08-07,Python Programming,Course,Online,Instagram
+REG0434,2026-07-07,Data Science & ML,Course,Offline,Google 
+REG0675,17/08/2026,Excel & Power BI Workshop,Workshop,Online,YouTube
+REG0264,2026-06-01,Data Science & ML,Course,Offline,Direct 
+REG0361,2026-06-21,Resume & Interview Workshop,Workshop,Offline,Facebook
+REG0076,19/04/2026,Cyber Security Awareness Workshop,Workshop,Offline,LinkedIn
+REG0467,12-07-2026,AI & ChatGPT Workshop,Workshop,Offline,LinkedIn
+REG0300,2026-06-08,Digital Marketing,Course,Online,Google
+REG0535,2026-07-25,Data Science & ML,Course,Offline,Instagram
+REG0585,2026-08-03,resume & interview workshop,Workshop,Online,Google
+REG0494,2026-07-18,Python Programming,Course,Offline,Facebook
+REG0528,2026-07-24,Full Stack Web Development,Course,Online,LinkedIn
+REG0169,2026-05-12,AI & ChatGPT Workshop,Workshop,Online,YouTube
